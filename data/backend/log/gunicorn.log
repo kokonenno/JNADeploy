@@ -1,0 +1,1726 @@
+[2023-08-09 18:34:59 +0000] [136] [INFO] Starting gunicorn 19.9.0
+[2023-08-09 18:34:59 +0000] [136] [INFO] Listening at: http://127.0.0.1:8080 (136)
+[2023-08-09 18:34:59 +0000] [136] [INFO] Using worker: threads
+[2023-08-09 18:34:59 +0000] [141] [INFO] Booting worker with pid: 141
+[2023-08-09 18:34:59 +0000] [142] [INFO] Booting worker with pid: 142
+[2023-08-09 19:26:57 +0000] [136] [INFO] Handling signal: term
+[2023-08-09 19:26:58 +0000] [142] [INFO] Worker exiting (pid: 142)
+[2023-08-09 19:26:58 +0000] [141] [INFO] Worker exiting (pid: 141)
+[2023-08-09 19:26:58 +0000] [136] [INFO] Shutting down: Master
+[2023-08-09 19:30:16 +0000] [105] [INFO] Starting gunicorn 19.9.0
+[2023-08-09 19:30:16 +0000] [105] [INFO] Listening at: http://127.0.0.1:8080 (105)
+[2023-08-09 19:30:16 +0000] [105] [INFO] Using worker: threads
+[2023-08-09 19:30:16 +0000] [110] [INFO] Booting worker with pid: 110
+[2023-08-09 19:30:16 +0000] [111] [INFO] Booting worker with pid: 111
+[2023-08-09 19:36:25 +0000] [105] [INFO] Handling signal: term
+[2023-08-09 19:36:25 +0000] [111] [INFO] Worker exiting (pid: 111)
+[2023-08-09 19:36:26 +0000] [110] [INFO] Worker exiting (pid: 110)
+[2023-08-09 19:36:26 +0000] [105] [INFO] Shutting down: Master
+[2023-08-09 19:36:33 +0000] [106] [INFO] Starting gunicorn 19.9.0
+[2023-08-09 19:36:33 +0000] [106] [INFO] Listening at: http://127.0.0.1:8080 (106)
+[2023-08-09 19:36:33 +0000] [106] [INFO] Using worker: threads
+[2023-08-09 19:36:33 +0000] [111] [INFO] Booting worker with pid: 111
+[2023-08-09 19:36:33 +0000] [112] [INFO] Booting worker with pid: 112
+[2023-08-09 19:39:18 +0000] [106] [INFO] Handling signal: term
+[2023-08-09 19:39:18 +0000] [111] [INFO] Worker exiting (pid: 111)
+[2023-08-09 19:39:19 +0000] [112] [INFO] Worker exiting (pid: 112)
+[2023-08-09 19:39:19 +0000] [106] [INFO] Shutting down: Master
+[2023-08-09 19:50:28 +0000] [104] [INFO] Starting gunicorn 19.9.0
+[2023-08-09 19:50:28 +0000] [104] [INFO] Listening at: http://127.0.0.1:8080 (104)
+[2023-08-09 19:50:28 +0000] [104] [INFO] Using worker: threads
+[2023-08-09 19:50:28 +0000] [109] [INFO] Booting worker with pid: 109
+[2023-08-09 19:50:28 +0000] [110] [INFO] Booting worker with pid: 110
+[2023-08-10 18:51:41 +0000] [104] [INFO] Handling signal: term
+[2023-08-10 18:51:41 +0000] [109] [INFO] Worker exiting (pid: 109)
+[2023-08-10 18:51:42 +0000] [110] [INFO] Worker exiting (pid: 110)
+[2023-08-10 18:51:42 +0000] [104] [INFO] Shutting down: Master
+[2023-08-10 18:53:03 +0000] [105] [INFO] Starting gunicorn 19.9.0
+[2023-08-10 18:53:03 +0000] [105] [INFO] Listening at: http://127.0.0.1:8080 (105)
+[2023-08-10 18:53:03 +0000] [105] [INFO] Using worker: threads
+[2023-08-10 18:53:04 +0000] [110] [INFO] Booting worker with pid: 110
+[2023-08-10 18:53:04 +0000] [111] [INFO] Booting worker with pid: 111
+[2023-08-11 13:17:41 +0000] [105] [INFO] Handling signal: term
+[2023-08-11 13:17:41 +0000] [111] [INFO] Worker exiting (pid: 111)
+[2023-08-11 13:17:42 +0000] [110] [INFO] Worker exiting (pid: 110)
+[2023-08-11 13:17:42 +0000] [105] [INFO] Shutting down: Master
+[2023-08-11 13:19:06 +0000] [105] [INFO] Starting gunicorn 19.9.0
+[2023-08-11 13:19:06 +0000] [105] [INFO] Listening at: http://127.0.0.1:8080 (105)
+[2023-08-11 13:19:06 +0000] [105] [INFO] Using worker: threads
+[2023-08-11 13:19:06 +0000] [110] [INFO] Booting worker with pid: 110
+[2023-08-11 13:19:06 +0000] [111] [INFO] Booting worker with pid: 111
+[2023-08-11 13:25:09 +0000] [105] [INFO] Handling signal: term
+[2023-08-11 13:25:09 +0000] [111] [INFO] Worker exiting (pid: 111)
+[2023-08-11 13:25:10 +0000] [110] [INFO] Worker exiting (pid: 110)
+[2023-08-11 13:25:10 +0000] [105] [INFO] Shutting down: Master
+[2023-08-11 13:30:41 +0000] [105] [INFO] Starting gunicorn 19.9.0
+[2023-08-11 13:30:41 +0000] [105] [INFO] Listening at: http://127.0.0.1:8080 (105)
+[2023-08-11 13:30:41 +0000] [105] [INFO] Using worker: threads
+[2023-08-11 13:30:41 +0000] [110] [INFO] Booting worker with pid: 110
+[2023-08-11 13:30:41 +0000] [111] [INFO] Booting worker with pid: 111
+[2023-08-11 14:44:57 +0000] [105] [INFO] Handling signal: term
+[2023-08-11 14:44:57 +0000] [110] [INFO] Worker exiting (pid: 110)
+[2023-08-11 14:44:58 +0000] [111] [INFO] Worker exiting (pid: 111)
+[2023-08-11 14:44:58 +0000] [105] [INFO] Shutting down: Master
+[2023-08-11 14:57:24 +0000] [186] [INFO] Starting gunicorn 19.9.0
+[2023-08-11 14:57:24 +0000] [186] [INFO] Listening at: http://127.0.0.1:8080 (186)
+[2023-08-11 14:57:24 +0000] [186] [INFO] Using worker: threads
+[2023-08-11 14:57:24 +0000] [191] [INFO] Booting worker with pid: 191
+[2023-08-11 14:57:24 +0000] [192] [INFO] Booting worker with pid: 192
+[2023-08-12 11:55:44 +0000] [186] [INFO] Handling signal: term
+[2023-08-12 11:55:44 +0000] [192] [INFO] Worker exiting (pid: 192)
+[2023-08-12 11:55:45 +0000] [191] [INFO] Worker exiting (pid: 191)
+[2023-08-12 11:55:45 +0000] [186] [INFO] Shutting down: Master
+[2023-08-12 11:59:41 +0000] [188] [INFO] Starting gunicorn 19.9.0
+[2023-08-12 11:59:41 +0000] [188] [INFO] Listening at: http://127.0.0.1:8080 (188)
+[2023-08-12 11:59:41 +0000] [188] [INFO] Using worker: threads
+[2023-08-12 11:59:41 +0000] [193] [INFO] Booting worker with pid: 193
+[2023-08-12 11:59:41 +0000] [194] [INFO] Booting worker with pid: 194
+[2023-08-12 12:00:55 +0000] [188] [INFO] Handling signal: term
+[2023-08-12 12:00:55 +0000] [194] [INFO] Worker exiting (pid: 194)
+[2023-08-12 12:00:56 +0000] [193] [INFO] Worker exiting (pid: 193)
+[2023-08-12 12:00:56 +0000] [188] [INFO] Shutting down: Master
+[2023-08-12 12:01:04 +0000] [188] [INFO] Starting gunicorn 19.9.0
+[2023-08-12 12:01:04 +0000] [188] [INFO] Listening at: http://127.0.0.1:8080 (188)
+[2023-08-12 12:01:04 +0000] [188] [INFO] Using worker: threads
+[2023-08-12 12:01:04 +0000] [193] [INFO] Booting worker with pid: 193
+[2023-08-12 12:01:04 +0000] [194] [INFO] Booting worker with pid: 194
+[2023-08-12 12:01:54 +0000] [188] [INFO] Handling signal: term
+[2023-08-12 12:01:55 +0000] [193] [INFO] Worker exiting (pid: 193)
+[2023-08-12 12:01:55 +0000] [194] [INFO] Worker exiting (pid: 194)
+[2023-08-12 12:01:55 +0000] [188] [INFO] Shutting down: Master
+[2023-08-12 12:05:45 +0000] [106] [INFO] Starting gunicorn 19.9.0
+[2023-08-12 12:05:45 +0000] [106] [INFO] Listening at: http://127.0.0.1:8080 (106)
+[2023-08-12 12:05:45 +0000] [106] [INFO] Using worker: threads
+[2023-08-12 12:05:45 +0000] [111] [INFO] Booting worker with pid: 111
+[2023-08-12 12:05:45 +0000] [112] [INFO] Booting worker with pid: 112
+[2023-08-12 15:07:54] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '0efa33de-83c4-4e4a-9841-e242c3f7c1e3' on queue 'default'.
+[2023-08-12 15:14:50] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '59709dc3-9b67-4242-b57e-4b7341c0fb88' on queue 'default'.
+[2023-08-13 06:26:20] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '48f868c3-269a-43a4-bf52-8ecc0d856d2c' on queue 'default'.
+[2023-08-13 06:26:28] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'bda0c714-c2d2-492f-9a59-ecd527f89fd9' on queue 'default'.
+[2023-08-13 06:26:40] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'a89f0219-ed7e-44ea-89a4-16c917130aa2' on queue 'default'.
+[2023-08-13 06:26:46] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '90d421d4-1842-43a2-b107-6f7a6c86f113' on queue 'default'.
+[2023-08-13 06:26:56] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'dc72240e-3398-4bac-a0d1-b698d4b4266f' on queue 'default'.
+[2023-08-13 06:27:02] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'ec53a482-9f42-44b4-9033-c77ae82fca55' on queue 'default'.
+[2023-08-13 06:32:07] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '2ab3328b-808a-423f-919d-69c1af8e0982' on queue 'default'.
+[2023-08-13 06:32:11] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '6faa4935-6fd5-4759-a987-79d4dd75343c' on queue 'default'.
+[2023-08-13 06:46:25] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '61884fd8-3ac3-4ec3-a922-8051c69b71d1' on queue 'default'.
+[2023-08-13 06:47:22] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '5bf27262-5fc1-443a-b6e6-866364df2471' on queue 'default'.
+[2023-08-13 06:48:13] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '39a92cee-fc09-492b-bf4b-4f7d5e13711e' on queue 'default'.
+[2023-08-13 06:52:30] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '082265a0-ddc0-4d09-b012-ea43944ffb55' on queue 'default'.
+[2023-08-13 06:53:00] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '03de2ad8-46f5-4178-96d2-2ce416832030' on queue 'default'.
+[2023-08-13 06:53:07] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '4c35b30c-5aa8-46a0-9949-088c43c67487' on queue 'default'.
+[2023-08-13 06:53:25] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '36023f60-400c-49b3-bce5-f5490f94d9c4' on queue 'default'.
+[2023-08-13 06:53:42] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '705dbe8a-8c41-407b-9cd2-706c65a0cdbd' on queue 'default'.
+[2023-08-13 06:55:06] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'b201a75a-7cd4-4252-9b44-8cb7baf44a08' on queue 'default'.
+[2023-08-13 06:55:38] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'e73ce926-7c57-4971-afb7-6a004dcdfa02' on queue 'default'.
+[2023-08-13 06:55:39] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '0fcba43e-e0a7-4bc6-b248-c683220c0f12' on queue 'default'.
+[2023-08-16 00:11:37] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '0aff91a4-81a7-4828-bae0-41f2af9265e5' on queue 'default'.
+[2023-08-16 00:16:00] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'ff100ea8-da80-4bcc-9230-efb77cd77359' on queue 'default'.
+[2023-08-16 00:17:24] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'bb6ecdc2-1553-49f1-abf2-1dd666ab2965' on queue 'default'.
+[2023-08-16 00:17:49] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '8c09e66e-c3bc-4bbe-9dca-99a720b5c42c' on queue 'default'.
+[2023-08-16 00:24:14] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '6b94c5cd-d599-46e3-b632-56c9474f7273' on queue 'default'.
+[2023-08-16 00:28:10] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'ba50d46d-3bcc-4e98-8651-ed0f3ce1f6b3' on queue 'default'.
+[2023-08-16 00:28:21] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'e6747f05-863d-4a81-8f71-cfffad648b56' on queue 'default'.
+[2023-08-16 00:29:11] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '8b13798d-662b-488b-b37e-c8c4a236ac97' on queue 'default'.
+[2023-08-16 00:30:19] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'bcdf4fb9-0df4-409c-83f7-2d6ae283fc26' on queue 'default'.
+[2023-08-16 00:39:41] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '0d68e7f6-4e7b-4c54-820a-28495378086b' on queue 'default'.
+[2023-08-16 00:41:43] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'a775294f-3074-4533-9409-46097f558aba' on queue 'default'.
+[2023-08-16 00:48:50] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '4be7d9dd-a441-427e-b972-76ec41c9cbb0' on queue 'default'.
+[2023-08-16 00:53:38] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'b13dd82c-cc6e-4bad-97f6-798971c64822' on queue 'default'.
+[2023-08-16 00:53:49] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '176c5fe4-6097-4cff-afc8-a242551324d1' on queue 'default'.
+[2023-08-16 00:58:33] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '85debcae-6e9f-4372-b27f-514f89cb1e10' on queue 'default'.
+[2023-08-16 00:58:48] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '562a25f1-7a2a-4bff-8ab8-147ceb5ce49f' on queue 'default'.
+[2023-08-16 00:59:03] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '0a8b5314-b1bf-4da0-98a7-392c3e6c6304' on queue 'default'.
+[2023-08-16 04:09:53] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '8a8e868e-2609-4651-b727-e5abe331367c' on queue 'default'.
+[2023-08-16 04:10:05] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '374dc4a1-04b3-47b5-be36-c1fcfa60f52f' on queue 'default'.
+[2023-09-15 06:31:53] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'bb42ff38-43d8-4bd4-b53e-5dd7910c80c2' on queue 'default'.
+[2023-09-15 06:32:40] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '78458d5f-b862-4bc2-887e-02446a2acdca' on queue 'default'.
+[2023-11-10 14:25:55 +0000] [111] [INFO] Autorestarting worker after current request.
+[2023-11-10 14:25:56 +0000] [111] [INFO] Worker exiting (pid: 111)
+[2023-11-10 14:25:56 +0000] [455117] [INFO] Booting worker with pid: 455117
+[2023-11-28 04:01:44] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message '2be9c1dc-365b-418e-99b7-9344c704d9f8' on queue 'default'.
+[2024-01-31 03:30:29 +0000] [455117] [INFO] Autorestarting worker after current request.
+[2024-01-31 03:30:30 +0000] [455117] [INFO] Worker exiting (pid: 455117)
+[2024-01-31 03:30:30 +0000] [119635] [INFO] Booting worker with pid: 119635
+[2024-08-09 11:52:17 +0000] [174] [INFO] Starting gunicorn 19.9.0
+[2024-08-09 11:52:17 +0000] [174] [INFO] Listening at: http://127.0.0.1:8080 (174)
+[2024-08-09 11:52:17 +0000] [174] [INFO] Using worker: threads
+[2024-08-09 11:52:17 +0000] [179] [INFO] Booting worker with pid: 179
+[2024-08-09 11:52:17 +0000] [180] [INFO] Booting worker with pid: 180
+[2024-08-09 12:27:26 +0000] [174] [INFO] Handling signal: term
+[2024-08-09 12:27:27 +0000] [180] [INFO] Worker exiting (pid: 180)
+[2024-08-09 12:27:27 +0000] [179] [INFO] Worker exiting (pid: 179)
+[2024-08-09 12:27:27 +0000] [174] [INFO] Shutting down: Master
+[2024-08-11 13:31:31 +0000] [174] [INFO] Starting gunicorn 19.9.0
+[2024-08-11 13:31:31 +0000] [174] [INFO] Listening at: http://127.0.0.1:8080 (174)
+[2024-08-11 13:31:31 +0000] [174] [INFO] Using worker: threads
+[2024-08-11 13:31:31 +0000] [179] [INFO] Booting worker with pid: 179
+[2024-08-11 13:31:31 +0000] [180] [INFO] Booting worker with pid: 180
+[2024-08-11 15:24:34] - [DEBUG] - [dramatiq.broker.RedisBroker:172]  - Enqueueing message 'b92e5a08-ba72-40f0-b163-9fe3d662e3bb' on queue 'default'.
+[2024-08-11 16:53:18 +0000] [174] [INFO] Handling signal: term
+[2024-08-11 16:53:19 +0000] [179] [INFO] Worker exiting (pid: 179)
+[2024-08-11 16:53:19 +0000] [180] [INFO] Worker exiting (pid: 180)
+[2024-08-11 16:53:20 +0000] [174] [INFO] Shutting down: Master
+[2024-08-12 11:01:28 +0000] [175] [INFO] Starting gunicorn 19.9.0
+[2024-08-12 11:01:28 +0000] [175] [INFO] Listening at: http://127.0.0.1:8080 (175)
+[2024-08-12 11:01:28 +0000] [175] [INFO] Using worker: threads
+[2024-08-12 11:01:28 +0000] [180] [INFO] Booting worker with pid: 180
+[2024-08-12 11:01:28 +0000] [181] [INFO] Booting worker with pid: 181
+[2025-02-04 09:35:01 +0000] [130] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 09:35:01 +0000] [130] [INFO] Listening at: http://127.0.0.1:8080 (130)
+[2025-02-04 09:35:01 +0000] [130] [INFO] Using worker: threads
+[2025-02-04 09:35:01 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-04 09:35:01 +0000] [144] [INFO] Booting worker with pid: 144
+[2025-02-04 09:35:01 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 09:35:01 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 09:35:02 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 09:35:02 +0000] [149] [INFO] Booting worker with pid: 149
+[2025-02-04 09:35:02 +0000] [161] [INFO] Booting worker with pid: 161
+[2025-02-04 09:35:02 +0000] [162] [INFO] Booting worker with pid: 162
+[2025-02-04 09:35:02 +0000] [163] [INFO] Booting worker with pid: 163
+[2025-02-04 09:35:02 +0000] [164] [INFO] Booting worker with pid: 164
+[2025-02-04 10:08:19 +0000] [130] [INFO] Handling signal: term
+[2025-02-04 10:08:19 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2025-02-04 10:08:19 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 10:08:19 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 10:08:19 +0000] [163] [INFO] Worker exiting (pid: 163)
+[2025-02-04 10:08:19 +0000] [162] [INFO] Worker exiting (pid: 162)
+[2025-02-04 10:08:20 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 10:08:20 +0000] [149] [INFO] Worker exiting (pid: 149)
+[2025-02-04 10:08:20 +0000] [164] [INFO] Worker exiting (pid: 164)
+[2025-02-04 10:08:20 +0000] [161] [INFO] Worker exiting (pid: 161)
+[2025-02-04 10:08:20 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-04 10:08:20 +0000] [130] [INFO] Shutting down: Master
+[2025-02-04 10:08:53 +0000] [107] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 10:08:53 +0000] [107] [INFO] Listening at: http://127.0.0.1:8080 (107)
+[2025-02-04 10:08:53 +0000] [107] [INFO] Using worker: threads
+[2025-02-04 10:08:53 +0000] [126] [INFO] Booting worker with pid: 126
+[2025-02-04 10:08:53 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-04 10:08:53 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-04 10:08:53 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-04 10:08:53 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-04 10:08:53 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 10:08:53 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-04 10:08:53 +0000] [144] [INFO] Booting worker with pid: 144
+[2025-02-04 10:08:53 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 10:08:53 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 10:17:07 +0000] [107] [INFO] Handling signal: term
+[2025-02-04 10:17:07 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-04 10:17:07 +0000] [126] [INFO] Worker exiting (pid: 126)
+[2025-02-04 10:17:07 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 10:17:07 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-04 10:17:08 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2025-02-04 10:17:08 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-04 10:17:08 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-04 10:17:08 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 10:17:08 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-04 10:17:08 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 10:17:08 +0000] [107] [INFO] Shutting down: Master
+[2025-02-04 10:17:39 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 10:17:40 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 10:17:40 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 10:17:40 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-04 10:17:40 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-04 10:17:40 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-04 10:17:40 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-04 10:17:40 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 10:17:40 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-04 10:17:40 +0000] [134] [INFO] Booting worker with pid: 134
+[2025-02-04 10:17:40 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 10:17:40 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 10:17:40 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-04 10:22:00 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 10:22:00 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-04 10:22:00 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-04 10:22:00 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 10:22:00 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-04 10:22:00 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-04 10:22:00 +0000] [134] [INFO] Worker exiting (pid: 134)
+[2025-02-04 10:22:00 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 10:22:00 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 10:22:00 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-04 10:22:01 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-04 10:22:01 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 10:22:20 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 10:22:20 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 10:22:20 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 10:22:20 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-04 10:22:20 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-04 10:22:20 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-04 10:22:20 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-04 10:22:20 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 10:22:20 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-02-04 10:22:20 +0000] [134] [INFO] Booting worker with pid: 134
+[2025-02-04 10:22:20 +0000] [135] [INFO] Booting worker with pid: 135
+[2025-02-04 10:22:20 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 10:22:20 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-04 10:26:49 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 10:26:49 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-04 10:26:49 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-04 10:26:49 +0000] [134] [INFO] Worker exiting (pid: 134)
+[2025-02-04 10:26:49 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-04 10:26:49 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-04 10:26:49 +0000] [135] [INFO] Worker exiting (pid: 135)
+[2025-02-04 10:26:49 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-04 10:26:49 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 10:26:49 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 10:26:50 +0000] [133] [INFO] Worker exiting (pid: 133)
+[2025-02-04 10:26:50 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 10:28:45 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 10:28:45 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 10:28:45 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 10:28:45 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-04 10:28:45 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-04 10:28:45 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-04 10:28:45 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-04 10:28:45 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 10:28:45 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-04 10:28:45 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-02-04 10:28:45 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 10:28:45 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 10:28:46 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-04 11:00:01 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:122)
+[2025-02-04 11:00:01 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:132)
+[2025-02-04 11:00:01 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:148)
+[2025-02-04 11:00:01 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-04 11:00:01 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-04 11:00:01 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-04 11:00:01 +0000] [1274] [INFO] Booting worker with pid: 1274
+[2025-02-04 11:00:01 +0000] [1275] [INFO] Booting worker with pid: 1275
+[2025-02-04 11:00:01 +0000] [1276] [INFO] Booting worker with pid: 1276
+[2025-02-04 11:18:13 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 11:18:13 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 11:18:13 +0000] [1275] [INFO] Worker exiting (pid: 1275)
+[2025-02-04 11:18:13 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 11:18:13 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-04 11:18:13 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-04 11:18:13 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-04 11:18:13 +0000] [1274] [INFO] Worker exiting (pid: 1274)
+[2025-02-04 11:18:14 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 11:18:14 +0000] [133] [INFO] Worker exiting (pid: 133)
+[2025-02-04 11:18:14 +0000] [1276] [INFO] Worker exiting (pid: 1276)
+[2025-02-04 11:18:14 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 11:18:45 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 11:18:45 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 11:18:45 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 11:18:45 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-04 11:18:45 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-04 11:18:45 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-04 11:18:45 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-04 11:18:45 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 11:18:45 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-02-04 11:18:45 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 11:18:45 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 11:18:45 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 11:18:45 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-04 11:25:56 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 11:25:56 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-04 11:25:56 +0000] [133] [INFO] Worker exiting (pid: 133)
+[2025-02-04 11:25:56 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-04 11:25:56 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 11:25:56 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-04 11:25:56 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 11:25:56 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 11:25:57 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 11:25:57 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-04 11:25:57 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-04 11:25:57 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 11:26:29 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 11:26:29 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 11:26:29 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 11:26:29 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-04 11:26:29 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-04 11:26:29 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-04 11:26:29 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-04 11:26:29 +0000] [125] [INFO] Booting worker with pid: 125
+[2025-02-04 11:26:29 +0000] [126] [INFO] Booting worker with pid: 126
+[2025-02-04 11:26:29 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-04 11:26:29 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 11:26:29 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 11:26:29 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 11:37:47 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 11:37:47 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-04 11:37:47 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 11:37:47 +0000] [126] [INFO] Worker exiting (pid: 126)
+[2025-02-04 11:37:47 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-04 11:37:47 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 11:37:48 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-04 11:37:48 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-04 11:37:48 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 11:37:48 +0000] [125] [INFO] Worker exiting (pid: 125)
+[2025-02-04 11:37:48 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-04 11:37:48 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 11:38:12 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 11:38:12 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 11:38:12 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 11:38:12 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-04 11:38:12 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-04 11:38:12 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-04 11:38:12 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-04 11:38:12 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 11:38:12 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-04 11:38:13 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-02-04 11:38:13 +0000] [135] [INFO] Booting worker with pid: 135
+[2025-02-04 11:38:13 +0000] [136] [INFO] Booting worker with pid: 136
+[2025-02-04 11:38:13 +0000] [137] [INFO] Booting worker with pid: 137
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:127)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:128)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:129)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:130)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:131)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:132)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:133)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:135)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:136)
+[2025-02-04 11:56:03 +0000] [108] [CRITICAL] WORKER TIMEOUT (pid:137)
+[2025-02-04 11:56:03 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-04 11:56:03 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-04 11:56:03 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-04 11:56:03 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-04 11:56:03 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-04 11:56:03 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 11:56:03 +0000] [133] [INFO] Worker exiting (pid: 133)
+[2025-02-04 11:56:03 +0000] [136] [INFO] Worker exiting (pid: 136)
+[2025-02-04 11:56:03 +0000] [135] [INFO] Worker exiting (pid: 135)
+[2025-02-04 11:56:03 +0000] [137] [INFO] Worker exiting (pid: 137)
+[2025-02-04 11:56:04 +0000] [825] [INFO] Booting worker with pid: 825
+[2025-02-04 11:56:04 +0000] [826] [INFO] Booting worker with pid: 826
+[2025-02-04 11:56:04 +0000] [827] [INFO] Booting worker with pid: 827
+[2025-02-04 11:56:04 +0000] [828] [INFO] Booting worker with pid: 828
+[2025-02-04 11:56:04 +0000] [829] [INFO] Booting worker with pid: 829
+[2025-02-04 11:56:04 +0000] [830] [INFO] Booting worker with pid: 830
+[2025-02-04 11:56:04 +0000] [831] [INFO] Booting worker with pid: 831
+[2025-02-04 11:56:04 +0000] [832] [INFO] Booting worker with pid: 832
+[2025-02-04 11:56:04 +0000] [833] [INFO] Booting worker with pid: 833
+[2025-02-04 11:56:04 +0000] [834] [INFO] Booting worker with pid: 834
+[2025-02-04 12:20:31 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 12:20:31 +0000] [826] [INFO] Worker exiting (pid: 826)
+[2025-02-04 12:20:31 +0000] [831] [INFO] Worker exiting (pid: 831)
+[2025-02-04 12:20:31 +0000] [832] [INFO] Worker exiting (pid: 832)
+[2025-02-04 12:20:31 +0000] [828] [INFO] Worker exiting (pid: 828)
+[2025-02-04 12:20:31 +0000] [829] [INFO] Worker exiting (pid: 829)
+[2025-02-04 12:20:31 +0000] [834] [INFO] Worker exiting (pid: 834)
+[2025-02-04 12:20:31 +0000] [830] [INFO] Worker exiting (pid: 830)
+[2025-02-04 12:20:32 +0000] [827] [INFO] Worker exiting (pid: 827)
+[2025-02-04 12:20:32 +0000] [825] [INFO] Worker exiting (pid: 825)
+[2025-02-04 12:20:32 +0000] [833] [INFO] Worker exiting (pid: 833)
+[2025-02-04 12:20:32 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 12:23:15 +0000] [30] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 12:23:15 +0000] [30] [INFO] Listening at: http://127.0.0.1:8080 (30)
+[2025-02-04 12:23:15 +0000] [30] [INFO] Using worker: threads
+[2025-02-04 12:23:15 +0000] [43] [INFO] Booting worker with pid: 43
+[2025-02-04 12:23:15 +0000] [44] [INFO] Booting worker with pid: 44
+[2025-02-04 12:23:15 +0000] [45] [INFO] Booting worker with pid: 45
+[2025-02-04 12:23:15 +0000] [46] [INFO] Booting worker with pid: 46
+[2025-02-04 12:23:15 +0000] [47] [INFO] Booting worker with pid: 47
+[2025-02-04 12:23:15 +0000] [59] [INFO] Booting worker with pid: 59
+[2025-02-04 12:23:16 +0000] [60] [INFO] Booting worker with pid: 60
+[2025-02-04 12:23:16 +0000] [61] [INFO] Booting worker with pid: 61
+[2025-02-04 12:23:16 +0000] [62] [INFO] Booting worker with pid: 62
+[2025-02-04 12:23:16 +0000] [63] [INFO] Booting worker with pid: 63
+[2025-02-04 12:32:24 +0000] [30] [INFO] Handling signal: term
+[2025-02-04 12:32:24 +0000] [43] [INFO] Worker exiting (pid: 43)
+[2025-02-04 12:32:24 +0000] [46] [INFO] Worker exiting (pid: 46)
+[2025-02-04 12:32:24 +0000] [61] [INFO] Worker exiting (pid: 61)
+[2025-02-04 12:32:24 +0000] [45] [INFO] Worker exiting (pid: 45)
+[2025-02-04 12:32:24 +0000] [60] [INFO] Worker exiting (pid: 60)
+[2025-02-04 12:32:24 +0000] [47] [INFO] Worker exiting (pid: 47)
+[2025-02-04 12:32:24 +0000] [59] [INFO] Worker exiting (pid: 59)
+[2025-02-04 12:32:24 +0000] [44] [INFO] Worker exiting (pid: 44)
+[2025-02-04 12:32:24 +0000] [62] [INFO] Worker exiting (pid: 62)
+[2025-02-04 12:32:25 +0000] [63] [INFO] Worker exiting (pid: 63)
+[2025-02-04 12:32:25 +0000] [30] [INFO] Shutting down: Master
+[2025-02-04 12:32:53 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 12:32:53 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-04 12:32:53 +0000] [108] [INFO] Using worker: threads
+[2025-02-04 12:32:53 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-04 12:32:53 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-04 12:32:53 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-04 12:32:53 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-04 12:32:53 +0000] [125] [INFO] Booting worker with pid: 125
+[2025-02-04 12:32:53 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-04 12:32:53 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 12:32:53 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 12:32:53 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 12:32:53 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-04 12:47:52 +0000] [108] [INFO] Handling signal: term
+[2025-02-04 12:47:52 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 12:47:52 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-04 12:47:52 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 12:47:52 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 12:47:53 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-04 12:47:53 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-04 12:47:53 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-04 12:47:53 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-04 12:47:53 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-04 12:47:53 +0000] [125] [INFO] Worker exiting (pid: 125)
+[2025-02-04 12:47:53 +0000] [108] [INFO] Shutting down: Master
+[2025-02-04 12:48:17 +0000] [114] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 12:48:17 +0000] [114] [INFO] Listening at: http://127.0.0.1:8080 (114)
+[2025-02-04 12:48:17 +0000] [114] [INFO] Using worker: threads
+[2025-02-04 12:48:17 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-04 12:48:17 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-04 12:48:17 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-04 12:48:18 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-04 12:48:18 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 12:48:18 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-04 12:48:18 +0000] [144] [INFO] Booting worker with pid: 144
+[2025-02-04 12:48:18 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 12:48:18 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 12:48:18 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:127)
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:128)
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:129)
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:144)
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:145)
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:147)
+[2025-02-04 13:19:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:148)
+[2025-02-04 13:19:52 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-04 13:19:52 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-04 13:19:52 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2025-02-04 13:19:52 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 13:19:52 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-04 13:19:52 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 13:19:52 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-04 13:19:52 +0000] [1929] [INFO] Booting worker with pid: 1929
+[2025-02-04 13:19:52 +0000] [1930] [INFO] Booting worker with pid: 1930
+[2025-02-04 13:19:52 +0000] [1931] [INFO] Booting worker with pid: 1931
+[2025-02-04 13:19:52 +0000] [1932] [INFO] Booting worker with pid: 1932
+[2025-02-04 13:19:52 +0000] [1933] [INFO] Booting worker with pid: 1933
+[2025-02-04 13:19:52 +0000] [1934] [INFO] Booting worker with pid: 1934
+[2025-02-04 13:19:52 +0000] [1935] [INFO] Booting worker with pid: 1935
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:131)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:143)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1929)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1930)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1931)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1932)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1933)
+[2025-02-04 13:51:49 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1935)
+[2025-02-04 13:51:49 +0000] [1931] [INFO] Worker exiting (pid: 1931)
+[2025-02-04 13:51:49 +0000] [1930] [INFO] Worker exiting (pid: 1930)
+[2025-02-04 13:51:49 +0000] [1932] [INFO] Worker exiting (pid: 1932)
+[2025-02-04 13:51:49 +0000] [1935] [INFO] Worker exiting (pid: 1935)
+[2025-02-04 13:51:49 +0000] [1933] [INFO] Worker exiting (pid: 1933)
+[2025-02-04 13:51:49 +0000] [1929] [INFO] Worker exiting (pid: 1929)
+[2025-02-04 13:51:49 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 13:51:49 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-04 13:51:49 +0000] [2042] [INFO] Booting worker with pid: 2042
+[2025-02-04 13:51:49 +0000] [2043] [INFO] Booting worker with pid: 2043
+[2025-02-04 13:51:49 +0000] [2044] [INFO] Booting worker with pid: 2044
+[2025-02-04 13:51:49 +0000] [2045] [INFO] Booting worker with pid: 2045
+[2025-02-04 13:51:49 +0000] [2046] [INFO] Booting worker with pid: 2046
+[2025-02-04 13:51:49 +0000] [2047] [INFO] Booting worker with pid: 2047
+[2025-02-04 13:51:49 +0000] [2048] [INFO] Booting worker with pid: 2048
+[2025-02-04 13:51:49 +0000] [2049] [INFO] Booting worker with pid: 2049
+[2025-02-04 14:15:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2049)
+[2025-02-04 14:15:24 +0000] [2049] [INFO] Worker exiting (pid: 2049)
+[2025-02-04 14:15:25 +0000] [2625] [INFO] Booting worker with pid: 2625
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2042)
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2043)
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2044)
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2045)
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2047)
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2048)
+[2025-02-04 14:33:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2625)
+[2025-02-04 14:33:13 +0000] [2042] [INFO] Worker exiting (pid: 2042)
+[2025-02-04 14:33:13 +0000] [2043] [INFO] Worker exiting (pid: 2043)
+[2025-02-04 14:33:13 +0000] [2047] [INFO] Worker exiting (pid: 2047)
+[2025-02-04 14:33:13 +0000] [2045] [INFO] Worker exiting (pid: 2045)
+[2025-02-04 14:33:13 +0000] [2044] [INFO] Worker exiting (pid: 2044)
+[2025-02-04 14:33:13 +0000] [2625] [INFO] Worker exiting (pid: 2625)
+[2025-02-04 14:33:13 +0000] [2048] [INFO] Worker exiting (pid: 2048)
+[2025-02-04 14:33:13 +0000] [2662] [INFO] Booting worker with pid: 2662
+[2025-02-04 14:33:13 +0000] [2663] [INFO] Booting worker with pid: 2663
+[2025-02-04 14:33:13 +0000] [2664] [INFO] Booting worker with pid: 2664
+[2025-02-04 14:33:13 +0000] [2665] [INFO] Booting worker with pid: 2665
+[2025-02-04 14:33:13 +0000] [2666] [INFO] Booting worker with pid: 2666
+[2025-02-04 14:33:14 +0000] [2667] [INFO] Booting worker with pid: 2667
+[2025-02-04 14:33:14 +0000] [2668] [INFO] Booting worker with pid: 2668
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:130)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:1934)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2046)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2663)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2664)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2665)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2666)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2667)
+[2025-02-04 14:43:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2668)
+[2025-02-04 14:43:57 +0000] [1934] [INFO] Worker exiting (pid: 1934)
+[2025-02-04 14:43:57 +0000] [2046] [INFO] Worker exiting (pid: 2046)
+[2025-02-04 14:43:57 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-04 14:43:57 +0000] [2664] [INFO] Worker exiting (pid: 2664)
+[2025-02-04 14:43:57 +0000] [2663] [INFO] Worker exiting (pid: 2663)
+[2025-02-04 14:43:57 +0000] [2665] [INFO] Worker exiting (pid: 2665)
+[2025-02-04 14:43:57 +0000] [2668] [INFO] Worker exiting (pid: 2668)
+[2025-02-04 14:43:57 +0000] [2666] [INFO] Worker exiting (pid: 2666)
+[2025-02-04 14:43:57 +0000] [2667] [INFO] Worker exiting (pid: 2667)
+[2025-02-04 14:43:58 +0000] [2735] [INFO] Booting worker with pid: 2735
+[2025-02-04 14:43:58 +0000] [2736] [INFO] Booting worker with pid: 2736
+[2025-02-04 14:43:58 +0000] [2737] [INFO] Booting worker with pid: 2737
+[2025-02-04 14:43:58 +0000] [2738] [INFO] Booting worker with pid: 2738
+[2025-02-04 14:43:58 +0000] [2739] [INFO] Booting worker with pid: 2739
+[2025-02-04 14:43:58 +0000] [2740] [INFO] Booting worker with pid: 2740
+[2025-02-04 14:43:58 +0000] [2741] [INFO] Booting worker with pid: 2741
+[2025-02-04 14:43:58 +0000] [2742] [INFO] Booting worker with pid: 2742
+[2025-02-04 14:43:58 +0000] [2743] [INFO] Booting worker with pid: 2743
+[2025-02-04 14:59:20 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:2741)
+[2025-02-04 14:59:20 +0000] [2741] [INFO] Worker exiting (pid: 2741)
+[2025-02-04 14:59:20 +0000] [2995] [INFO] Booting worker with pid: 2995
+[2025-02-04 15:08:56 +0000] [114] [INFO] Handling signal: term
+[2025-02-04 15:08:56 +0000] [2737] [INFO] Worker exiting (pid: 2737)
+[2025-02-04 15:08:56 +0000] [2736] [INFO] Worker exiting (pid: 2736)
+[2025-02-04 15:08:57 +0000] [2662] [INFO] Worker exiting (pid: 2662)
+[2025-02-04 15:08:57 +0000] [2743] [INFO] Worker exiting (pid: 2743)
+[2025-02-04 15:08:57 +0000] [2735] [INFO] Worker exiting (pid: 2735)
+[2025-02-04 15:08:57 +0000] [2739] [INFO] Worker exiting (pid: 2739)
+[2025-02-04 15:08:57 +0000] [2995] [INFO] Worker exiting (pid: 2995)
+[2025-02-04 15:08:57 +0000] [2742] [INFO] Worker exiting (pid: 2742)
+[2025-02-04 15:08:57 +0000] [2740] [INFO] Worker exiting (pid: 2740)
+[2025-02-04 15:08:57 +0000] [2738] [INFO] Worker exiting (pid: 2738)
+[2025-02-04 15:08:57 +0000] [114] [INFO] Shutting down: Master
+[2025-02-04 15:09:25 +0000] [114] [INFO] Starting gunicorn 19.9.0
+[2025-02-04 15:09:25 +0000] [114] [INFO] Listening at: http://127.0.0.1:8080 (114)
+[2025-02-04 15:09:25 +0000] [114] [INFO] Using worker: threads
+[2025-02-04 15:09:25 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-04 15:09:25 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-04 15:09:25 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-04 15:09:25 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-04 15:09:25 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-04 15:09:25 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-04 15:09:25 +0000] [144] [INFO] Booting worker with pid: 144
+[2025-02-04 15:09:25 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-04 15:09:25 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-04 15:09:25 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:128)
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:129)
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:130)
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:131)
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:144)
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:145)
+[2025-02-04 15:18:06 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:147)
+[2025-02-04 15:18:06 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-04 15:18:06 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-04 15:18:06 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-04 15:18:06 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-04 15:18:06 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2025-02-04 15:18:06 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-04 15:18:06 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-04 15:18:06 +0000] [519] [INFO] Booting worker with pid: 519
+[2025-02-04 15:18:06 +0000] [520] [INFO] Booting worker with pid: 520
+[2025-02-04 15:18:06 +0000] [521] [INFO] Booting worker with pid: 521
+[2025-02-04 15:18:06 +0000] [522] [INFO] Booting worker with pid: 522
+[2025-02-04 15:18:06 +0000] [523] [INFO] Booting worker with pid: 523
+[2025-02-04 15:18:06 +0000] [524] [INFO] Booting worker with pid: 524
+[2025-02-04 15:18:06 +0000] [525] [INFO] Booting worker with pid: 525
+[2025-02-04 15:37:59 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:127)
+[2025-02-04 15:37:59 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:146)
+[2025-02-04 15:37:59 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:521)
+[2025-02-04 15:37:59 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-04 15:37:59 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-04 15:37:59 +0000] [521] [INFO] Worker exiting (pid: 521)
+[2025-02-04 15:37:59 +0000] [699] [INFO] Booting worker with pid: 699
+[2025-02-04 15:37:59 +0000] [700] [INFO] Booting worker with pid: 700
+[2025-02-04 15:37:59 +0000] [701] [INFO] Booting worker with pid: 701
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:143)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:519)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:520)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:522)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:523)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:524)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:525)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:699)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:700)
+[2025-02-04 16:56:04 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-04 16:56:04 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:701)
+[2025-02-04 16:56:04 +0000] [522] [INFO] Worker exiting (pid: 522)
+[2025-02-04 16:56:04 +0000] [520] [INFO] Worker exiting (pid: 520)
+[2025-02-04 16:56:04 +0000] [523] [INFO] Worker exiting (pid: 523)
+[2025-02-04 16:56:04 +0000] [525] [INFO] Worker exiting (pid: 525)
+[2025-02-04 16:56:04 +0000] [699] [INFO] Worker exiting (pid: 699)
+[2025-02-04 16:56:04 +0000] [700] [INFO] Worker exiting (pid: 700)
+[2025-02-04 16:56:04 +0000] [701] [INFO] Worker exiting (pid: 701)
+[2025-02-04 16:56:04 +0000] [524] [INFO] Worker exiting (pid: 524)
+[2025-02-04 16:56:04 +0000] [519] [INFO] Worker exiting (pid: 519)
+[2025-02-04 16:56:04 +0000] [5077] [INFO] Booting worker with pid: 5077
+[2025-02-04 16:56:04 +0000] [5078] [INFO] Booting worker with pid: 5078
+[2025-02-04 16:56:04 +0000] [5079] [INFO] Booting worker with pid: 5079
+[2025-02-04 16:56:04 +0000] [5080] [INFO] Booting worker with pid: 5080
+[2025-02-04 16:56:04 +0000] [5081] [INFO] Booting worker with pid: 5081
+[2025-02-04 16:56:04 +0000] [5082] [INFO] Booting worker with pid: 5082
+[2025-02-04 16:56:04 +0000] [5083] [INFO] Booting worker with pid: 5083
+[2025-02-04 16:56:04 +0000] [5084] [INFO] Booting worker with pid: 5084
+[2025-02-04 16:56:04 +0000] [5085] [INFO] Booting worker with pid: 5085
+[2025-02-04 16:56:04 +0000] [5086] [INFO] Booting worker with pid: 5086
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5077)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5079)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5080)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5081)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5082)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5083)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5085)
+[2025-02-04 17:20:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5086)
+[2025-02-04 17:20:16 +0000] [5077] [INFO] Worker exiting (pid: 5077)
+[2025-02-04 17:20:16 +0000] [5079] [INFO] Worker exiting (pid: 5079)
+[2025-02-04 17:20:16 +0000] [5081] [INFO] Worker exiting (pid: 5081)
+[2025-02-04 17:20:16 +0000] [5083] [INFO] Worker exiting (pid: 5083)
+[2025-02-04 17:20:16 +0000] [5080] [INFO] Worker exiting (pid: 5080)
+[2025-02-04 17:20:16 +0000] [5085] [INFO] Worker exiting (pid: 5085)
+[2025-02-04 17:20:16 +0000] [5082] [INFO] Worker exiting (pid: 5082)
+[2025-02-04 17:20:16 +0000] [5086] [INFO] Worker exiting (pid: 5086)
+[2025-02-04 17:20:16 +0000] [5197] [INFO] Booting worker with pid: 5197
+[2025-02-04 17:20:16 +0000] [5198] [INFO] Booting worker with pid: 5198
+[2025-02-04 17:20:16 +0000] [5199] [INFO] Booting worker with pid: 5199
+[2025-02-04 17:20:16 +0000] [5200] [INFO] Booting worker with pid: 5200
+[2025-02-04 17:20:16 +0000] [5207] [INFO] Booting worker with pid: 5207
+[2025-02-04 17:20:16 +0000] [5208] [INFO] Booting worker with pid: 5208
+[2025-02-04 17:20:16 +0000] [5209] [INFO] Booting worker with pid: 5209
+[2025-02-04 17:20:16 +0000] [5210] [INFO] Booting worker with pid: 5210
+[2025-02-04 17:36:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5078)
+[2025-02-04 17:36:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5084)
+[2025-02-04 17:36:31 +0000] [5084] [INFO] Worker exiting (pid: 5084)
+[2025-02-04 17:36:31 +0000] [5078] [INFO] Worker exiting (pid: 5078)
+[2025-02-04 17:36:31 +0000] [5281] [INFO] Booting worker with pid: 5281
+[2025-02-04 17:36:31 +0000] [5282] [INFO] Booting worker with pid: 5282
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5197)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5198)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5199)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5200)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5207)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5209)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5281)
+[2025-02-04 18:54:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5282)
+[2025-02-04 18:54:13 +0000] [5198] [INFO] Worker exiting (pid: 5198)
+[2025-02-04 18:54:13 +0000] [5197] [INFO] Worker exiting (pid: 5197)
+[2025-02-04 18:54:13 +0000] [5199] [INFO] Worker exiting (pid: 5199)
+[2025-02-04 18:54:13 +0000] [5281] [INFO] Worker exiting (pid: 5281)
+[2025-02-04 18:54:13 +0000] [5209] [INFO] Worker exiting (pid: 5209)
+[2025-02-04 18:54:13 +0000] [5200] [INFO] Worker exiting (pid: 5200)
+[2025-02-04 18:54:13 +0000] [5207] [INFO] Worker exiting (pid: 5207)
+[2025-02-04 18:54:13 +0000] [5282] [INFO] Worker exiting (pid: 5282)
+[2025-02-04 18:54:13 +0000] [9521] [INFO] Booting worker with pid: 9521
+[2025-02-04 18:54:13 +0000] [9522] [INFO] Booting worker with pid: 9522
+[2025-02-04 18:54:13 +0000] [9523] [INFO] Booting worker with pid: 9523
+[2025-02-04 18:54:14 +0000] [9524] [INFO] Booting worker with pid: 9524
+[2025-02-04 18:54:14 +0000] [9525] [INFO] Booting worker with pid: 9525
+[2025-02-04 18:54:14 +0000] [9526] [INFO] Booting worker with pid: 9526
+[2025-02-04 18:54:14 +0000] [9527] [INFO] Booting worker with pid: 9527
+[2025-02-04 18:54:14 +0000] [9528] [INFO] Booting worker with pid: 9528
+[2025-02-04 19:10:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5210)
+[2025-02-04 19:10:57 +0000] [5210] [INFO] Worker exiting (pid: 5210)
+[2025-02-04 19:10:57 +0000] [9569] [INFO] Booting worker with pid: 9569
+[2025-02-04 19:17:53 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:5208)
+[2025-02-04 19:17:53 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9525)
+[2025-02-04 19:17:53 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9527)
+[2025-02-04 19:17:53 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9569)
+[2025-02-04 19:17:53 +0000] [5208] [INFO] Worker exiting (pid: 5208)
+[2025-02-04 19:17:53 +0000] [9527] [INFO] Worker exiting (pid: 9527)
+[2025-02-04 19:17:53 +0000] [9569] [INFO] Worker exiting (pid: 9569)
+[2025-02-04 19:17:53 +0000] [9525] [INFO] Worker exiting (pid: 9525)
+[2025-02-04 19:17:53 +0000] [9646] [INFO] Booting worker with pid: 9646
+[2025-02-04 19:17:53 +0000] [9647] [INFO] Booting worker with pid: 9647
+[2025-02-04 19:17:53 +0000] [9648] [INFO] Booting worker with pid: 9648
+[2025-02-04 19:17:53 +0000] [9649] [INFO] Booting worker with pid: 9649
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9521)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9522)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9523)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9524)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9526)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9528)
+[2025-02-04 19:33:56 +0000] [9521] [INFO] Worker exiting (pid: 9521)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9646)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9647)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9648)
+[2025-02-04 19:33:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9649)
+[2025-02-04 19:33:56 +0000] [9523] [INFO] Worker exiting (pid: 9523)
+[2025-02-04 19:33:56 +0000] [9522] [INFO] Worker exiting (pid: 9522)
+[2025-02-04 19:33:56 +0000] [9528] [INFO] Worker exiting (pid: 9528)
+[2025-02-04 19:33:56 +0000] [9524] [INFO] Worker exiting (pid: 9524)
+[2025-02-04 19:33:56 +0000] [9526] [INFO] Worker exiting (pid: 9526)
+[2025-02-04 19:33:56 +0000] [9646] [INFO] Worker exiting (pid: 9646)
+[2025-02-04 19:33:56 +0000] [9649] [INFO] Worker exiting (pid: 9649)
+[2025-02-04 19:33:56 +0000] [9648] [INFO] Worker exiting (pid: 9648)
+[2025-02-04 19:33:56 +0000] [9647] [INFO] Worker exiting (pid: 9647)
+[2025-02-04 19:33:56 +0000] [9724] [INFO] Booting worker with pid: 9724
+[2025-02-04 19:33:56 +0000] [9725] [INFO] Booting worker with pid: 9725
+[2025-02-04 19:33:56 +0000] [9726] [INFO] Booting worker with pid: 9726
+[2025-02-04 19:33:56 +0000] [9727] [INFO] Booting worker with pid: 9727
+[2025-02-04 19:33:56 +0000] [9728] [INFO] Booting worker with pid: 9728
+[2025-02-04 19:33:56 +0000] [9729] [INFO] Booting worker with pid: 9729
+[2025-02-04 19:33:56 +0000] [9730] [INFO] Booting worker with pid: 9730
+[2025-02-04 19:33:57 +0000] [9731] [INFO] Booting worker with pid: 9731
+[2025-02-04 19:33:57 +0000] [9732] [INFO] Booting worker with pid: 9732
+[2025-02-04 19:33:57 +0000] [9733] [INFO] Booting worker with pid: 9733
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9725)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9726)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9728)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9729)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9730)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9731)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9732)
+[2025-02-04 19:49:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9733)
+[2025-02-04 19:49:32 +0000] [9725] [INFO] Worker exiting (pid: 9725)
+[2025-02-04 19:49:32 +0000] [9726] [INFO] Worker exiting (pid: 9726)
+[2025-02-04 19:49:32 +0000] [9729] [INFO] Worker exiting (pid: 9729)
+[2025-02-04 19:49:32 +0000] [9728] [INFO] Worker exiting (pid: 9728)
+[2025-02-04 19:49:32 +0000] [9731] [INFO] Worker exiting (pid: 9731)
+[2025-02-04 19:49:32 +0000] [9730] [INFO] Worker exiting (pid: 9730)
+[2025-02-04 19:49:32 +0000] [9732] [INFO] Worker exiting (pid: 9732)
+[2025-02-04 19:49:32 +0000] [9733] [INFO] Worker exiting (pid: 9733)
+[2025-02-04 19:49:32 +0000] [9774] [INFO] Booting worker with pid: 9774
+[2025-02-04 19:49:32 +0000] [9775] [INFO] Booting worker with pid: 9775
+[2025-02-04 19:49:32 +0000] [9776] [INFO] Booting worker with pid: 9776
+[2025-02-04 19:49:32 +0000] [9777] [INFO] Booting worker with pid: 9777
+[2025-02-04 19:49:32 +0000] [9778] [INFO] Booting worker with pid: 9778
+[2025-02-04 19:49:32 +0000] [9779] [INFO] Booting worker with pid: 9779
+[2025-02-04 19:49:32 +0000] [9780] [INFO] Booting worker with pid: 9780
+[2025-02-04 19:49:32 +0000] [9781] [INFO] Booting worker with pid: 9781
+[2025-02-04 21:24:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9724)
+[2025-02-04 21:24:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9727)
+[2025-02-04 21:24:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9774)
+[2025-02-04 21:24:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9778)
+[2025-02-04 21:24:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9779)
+[2025-02-04 21:24:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9781)
+[2025-02-04 21:24:07 +0000] [9724] [INFO] Worker exiting (pid: 9724)
+[2025-02-04 21:24:07 +0000] [9727] [INFO] Worker exiting (pid: 9727)
+[2025-02-04 21:24:07 +0000] [9774] [INFO] Worker exiting (pid: 9774)
+[2025-02-04 21:24:07 +0000] [9781] [INFO] Worker exiting (pid: 9781)
+[2025-02-04 21:24:07 +0000] [9778] [INFO] Worker exiting (pid: 9778)
+[2025-02-04 21:24:07 +0000] [9779] [INFO] Worker exiting (pid: 9779)
+[2025-02-04 21:24:07 +0000] [14123] [INFO] Booting worker with pid: 14123
+[2025-02-04 21:24:08 +0000] [14124] [INFO] Booting worker with pid: 14124
+[2025-02-04 21:24:08 +0000] [14125] [INFO] Booting worker with pid: 14125
+[2025-02-04 21:24:08 +0000] [14126] [INFO] Booting worker with pid: 14126
+[2025-02-04 21:24:08 +0000] [14127] [INFO] Booting worker with pid: 14127
+[2025-02-04 21:24:08 +0000] [14128] [INFO] Booting worker with pid: 14128
+[2025-02-04 21:40:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9775)
+[2025-02-04 21:40:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9780)
+[2025-02-04 21:40:15 +0000] [9775] [INFO] Worker exiting (pid: 9775)
+[2025-02-04 21:40:15 +0000] [9780] [INFO] Worker exiting (pid: 9780)
+[2025-02-04 21:40:15 +0000] [14204] [INFO] Booting worker with pid: 14204
+[2025-02-04 21:40:15 +0000] [14205] [INFO] Booting worker with pid: 14205
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9776)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14123)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14124)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14125)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14126)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14127)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14128)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14204)
+[2025-02-04 22:13:43 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14205)
+[2025-02-04 22:13:43 +0000] [9776] [INFO] Worker exiting (pid: 9776)
+[2025-02-04 22:13:43 +0000] [14124] [INFO] Worker exiting (pid: 14124)
+[2025-02-04 22:13:43 +0000] [14123] [INFO] Worker exiting (pid: 14123)
+[2025-02-04 22:13:43 +0000] [14127] [INFO] Worker exiting (pid: 14127)
+[2025-02-04 22:13:43 +0000] [14125] [INFO] Worker exiting (pid: 14125)
+[2025-02-04 22:13:43 +0000] [14128] [INFO] Worker exiting (pid: 14128)
+[2025-02-04 22:13:43 +0000] [14204] [INFO] Worker exiting (pid: 14204)
+[2025-02-04 22:13:43 +0000] [14126] [INFO] Worker exiting (pid: 14126)
+[2025-02-04 22:13:43 +0000] [14205] [INFO] Worker exiting (pid: 14205)
+[2025-02-04 22:13:43 +0000] [14314] [INFO] Booting worker with pid: 14314
+[2025-02-04 22:13:43 +0000] [14315] [INFO] Booting worker with pid: 14315
+[2025-02-04 22:13:43 +0000] [14316] [INFO] Booting worker with pid: 14316
+[2025-02-04 22:13:43 +0000] [14317] [INFO] Booting worker with pid: 14317
+[2025-02-04 22:13:44 +0000] [14318] [INFO] Booting worker with pid: 14318
+[2025-02-04 22:13:44 +0000] [14319] [INFO] Booting worker with pid: 14319
+[2025-02-04 22:13:44 +0000] [14320] [INFO] Booting worker with pid: 14320
+[2025-02-04 22:13:44 +0000] [14321] [INFO] Booting worker with pid: 14321
+[2025-02-04 22:13:44 +0000] [14322] [INFO] Booting worker with pid: 14322
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:9777)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14314)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14315)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14316)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14317)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14318)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14319)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14320)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14321)
+[2025-02-04 22:29:42 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14322)
+[2025-02-04 22:29:42 +0000] [14317] [INFO] Worker exiting (pid: 14317)
+[2025-02-04 22:29:42 +0000] [14315] [INFO] Worker exiting (pid: 14315)
+[2025-02-04 22:29:42 +0000] [9777] [INFO] Worker exiting (pid: 9777)
+[2025-02-04 22:29:42 +0000] [14314] [INFO] Worker exiting (pid: 14314)
+[2025-02-04 22:29:42 +0000] [14316] [INFO] Worker exiting (pid: 14316)
+[2025-02-04 22:29:42 +0000] [14318] [INFO] Worker exiting (pid: 14318)
+[2025-02-04 22:29:42 +0000] [14319] [INFO] Worker exiting (pid: 14319)
+[2025-02-04 22:29:42 +0000] [14320] [INFO] Worker exiting (pid: 14320)
+[2025-02-04 22:29:42 +0000] [14321] [INFO] Worker exiting (pid: 14321)
+[2025-02-04 22:29:42 +0000] [14322] [INFO] Worker exiting (pid: 14322)
+[2025-02-04 22:29:42 +0000] [14399] [INFO] Booting worker with pid: 14399
+[2025-02-04 22:29:42 +0000] [14400] [INFO] Booting worker with pid: 14400
+[2025-02-04 22:29:42 +0000] [14401] [INFO] Booting worker with pid: 14401
+[2025-02-04 22:29:42 +0000] [14402] [INFO] Booting worker with pid: 14402
+[2025-02-04 22:29:42 +0000] [14403] [INFO] Booting worker with pid: 14403
+[2025-02-04 22:29:42 +0000] [14404] [INFO] Booting worker with pid: 14404
+[2025-02-04 22:29:42 +0000] [14405] [INFO] Booting worker with pid: 14405
+[2025-02-04 22:29:42 +0000] [14406] [INFO] Booting worker with pid: 14406
+[2025-02-04 22:29:42 +0000] [14407] [INFO] Booting worker with pid: 14407
+[2025-02-04 22:29:42 +0000] [14408] [INFO] Booting worker with pid: 14408
+[2025-02-04 23:46:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14400)
+[2025-02-04 23:46:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14406)
+[2025-02-04 23:46:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14408)
+[2025-02-04 23:46:54 +0000] [14400] [INFO] Worker exiting (pid: 14400)
+[2025-02-04 23:46:54 +0000] [14406] [INFO] Worker exiting (pid: 14406)
+[2025-02-04 23:46:54 +0000] [14408] [INFO] Worker exiting (pid: 14408)
+[2025-02-04 23:46:54 +0000] [18638] [INFO] Booting worker with pid: 18638
+[2025-02-04 23:46:54 +0000] [18639] [INFO] Booting worker with pid: 18639
+[2025-02-04 23:46:54 +0000] [18640] [INFO] Booting worker with pid: 18640
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14401)
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14402)
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14404)
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14407)
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18638)
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18639)
+[2025-02-04 23:58:44 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18640)
+[2025-02-04 23:58:44 +0000] [14401] [INFO] Worker exiting (pid: 14401)
+[2025-02-04 23:58:44 +0000] [14402] [INFO] Worker exiting (pid: 14402)
+[2025-02-04 23:58:44 +0000] [14404] [INFO] Worker exiting (pid: 14404)
+[2025-02-04 23:58:44 +0000] [14407] [INFO] Worker exiting (pid: 14407)
+[2025-02-04 23:58:44 +0000] [18638] [INFO] Worker exiting (pid: 18638)
+[2025-02-04 23:58:44 +0000] [18639] [INFO] Worker exiting (pid: 18639)
+[2025-02-04 23:58:44 +0000] [18640] [INFO] Worker exiting (pid: 18640)
+[2025-02-04 23:58:44 +0000] [18953] [INFO] Booting worker with pid: 18953
+[2025-02-04 23:58:44 +0000] [18954] [INFO] Booting worker with pid: 18954
+[2025-02-04 23:58:44 +0000] [18955] [INFO] Booting worker with pid: 18955
+[2025-02-04 23:58:44 +0000] [18956] [INFO] Booting worker with pid: 18956
+[2025-02-04 23:58:44 +0000] [18957] [INFO] Booting worker with pid: 18957
+[2025-02-04 23:58:44 +0000] [18958] [INFO] Booting worker with pid: 18958
+[2025-02-04 23:58:44 +0000] [18959] [INFO] Booting worker with pid: 18959
+[2025-02-05 00:01:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14399)
+[2025-02-05 00:01:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18953)
+[2025-02-05 00:01:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18956)
+[2025-02-05 00:01:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18957)
+[2025-02-05 00:01:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18958)
+[2025-02-05 00:01:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18959)
+[2025-02-05 00:01:12 +0000] [14399] [INFO] Worker exiting (pid: 14399)
+[2025-02-05 00:01:12 +0000] [18953] [INFO] Worker exiting (pid: 18953)
+[2025-02-05 00:01:12 +0000] [18956] [INFO] Worker exiting (pid: 18956)
+[2025-02-05 00:01:12 +0000] [18957] [INFO] Worker exiting (pid: 18957)
+[2025-02-05 00:01:12 +0000] [18958] [INFO] Worker exiting (pid: 18958)
+[2025-02-05 00:01:12 +0000] [18959] [INFO] Worker exiting (pid: 18959)
+[2025-02-05 00:01:12 +0000] [19036] [INFO] Booting worker with pid: 19036
+[2025-02-05 00:01:12 +0000] [19037] [INFO] Booting worker with pid: 19037
+[2025-02-05 00:01:12 +0000] [19038] [INFO] Booting worker with pid: 19038
+[2025-02-05 00:01:12 +0000] [19039] [INFO] Booting worker with pid: 19039
+[2025-02-05 00:01:12 +0000] [19040] [INFO] Booting worker with pid: 19040
+[2025-02-05 00:01:12 +0000] [19041] [INFO] Booting worker with pid: 19041
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14403)
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:14405)
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18955)
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:19036)
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:19037)
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:19039)
+[2025-02-05 01:19:12 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:19040)
+[2025-02-05 01:19:12 +0000] [14403] [INFO] Worker exiting (pid: 14403)
+[2025-02-05 01:19:12 +0000] [14405] [INFO] Worker exiting (pid: 14405)
+[2025-02-05 01:19:12 +0000] [18955] [INFO] Worker exiting (pid: 18955)
+[2025-02-05 01:19:12 +0000] [19036] [INFO] Worker exiting (pid: 19036)
+[2025-02-05 01:19:12 +0000] [19039] [INFO] Worker exiting (pid: 19039)
+[2025-02-05 01:19:12 +0000] [19037] [INFO] Worker exiting (pid: 19037)
+[2025-02-05 01:19:12 +0000] [19040] [INFO] Worker exiting (pid: 19040)
+[2025-02-05 01:19:12 +0000] [23312] [INFO] Booting worker with pid: 23312
+[2025-02-05 01:19:12 +0000] [23313] [INFO] Booting worker with pid: 23313
+[2025-02-05 01:19:12 +0000] [23314] [INFO] Booting worker with pid: 23314
+[2025-02-05 01:19:12 +0000] [23315] [INFO] Booting worker with pid: 23315
+[2025-02-05 01:19:12 +0000] [23316] [INFO] Booting worker with pid: 23316
+[2025-02-05 01:19:12 +0000] [23317] [INFO] Booting worker with pid: 23317
+[2025-02-05 01:19:12 +0000] [23318] [INFO] Booting worker with pid: 23318
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:18954)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:19041)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23312)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23313)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23314)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23315)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23316)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23317)
+[2025-02-05 01:37:28 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23318)
+[2025-02-05 01:37:28 +0000] [19041] [INFO] Worker exiting (pid: 19041)
+[2025-02-05 01:37:28 +0000] [23317] [INFO] Worker exiting (pid: 23317)
+[2025-02-05 01:37:28 +0000] [23315] [INFO] Worker exiting (pid: 23315)
+[2025-02-05 01:37:28 +0000] [23314] [INFO] Worker exiting (pid: 23314)
+[2025-02-05 01:37:28 +0000] [23313] [INFO] Worker exiting (pid: 23313)
+[2025-02-05 01:37:28 +0000] [23316] [INFO] Worker exiting (pid: 23316)
+[2025-02-05 01:37:28 +0000] [23318] [INFO] Worker exiting (pid: 23318)
+[2025-02-05 01:37:28 +0000] [23312] [INFO] Worker exiting (pid: 23312)
+[2025-02-05 01:37:28 +0000] [18954] [INFO] Worker exiting (pid: 18954)
+[2025-02-05 01:37:29 +0000] [23389] [INFO] Booting worker with pid: 23389
+[2025-02-05 01:37:29 +0000] [23390] [INFO] Booting worker with pid: 23390
+[2025-02-05 01:37:29 +0000] [23391] [INFO] Booting worker with pid: 23391
+[2025-02-05 01:37:29 +0000] [23392] [INFO] Booting worker with pid: 23392
+[2025-02-05 01:37:29 +0000] [23393] [INFO] Booting worker with pid: 23393
+[2025-02-05 01:37:29 +0000] [23394] [INFO] Booting worker with pid: 23394
+[2025-02-05 01:37:29 +0000] [23395] [INFO] Booting worker with pid: 23395
+[2025-02-05 01:37:29 +0000] [23396] [INFO] Booting worker with pid: 23396
+[2025-02-05 01:37:29 +0000] [23397] [INFO] Booting worker with pid: 23397
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:19038)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23389)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23391)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23392)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23393)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23394)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23395)
+[2025-02-05 01:59:17 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23396)
+[2025-02-05 01:59:17 +0000] [19038] [INFO] Worker exiting (pid: 19038)
+[2025-02-05 01:59:17 +0000] [23389] [INFO] Worker exiting (pid: 23389)
+[2025-02-05 01:59:17 +0000] [23391] [INFO] Worker exiting (pid: 23391)
+[2025-02-05 01:59:17 +0000] [23392] [INFO] Worker exiting (pid: 23392)
+[2025-02-05 01:59:17 +0000] [23395] [INFO] Worker exiting (pid: 23395)
+[2025-02-05 01:59:17 +0000] [23393] [INFO] Worker exiting (pid: 23393)
+[2025-02-05 01:59:17 +0000] [23396] [INFO] Worker exiting (pid: 23396)
+[2025-02-05 01:59:17 +0000] [23394] [INFO] Worker exiting (pid: 23394)
+[2025-02-05 01:59:17 +0000] [23510] [INFO] Booting worker with pid: 23510
+[2025-02-05 01:59:17 +0000] [23511] [INFO] Booting worker with pid: 23511
+[2025-02-05 01:59:17 +0000] [23512] [INFO] Booting worker with pid: 23512
+[2025-02-05 01:59:17 +0000] [23513] [INFO] Booting worker with pid: 23513
+[2025-02-05 01:59:17 +0000] [23514] [INFO] Booting worker with pid: 23514
+[2025-02-05 01:59:17 +0000] [23515] [INFO] Booting worker with pid: 23515
+[2025-02-05 01:59:17 +0000] [23516] [INFO] Booting worker with pid: 23516
+[2025-02-05 01:59:17 +0000] [23517] [INFO] Booting worker with pid: 23517
+[2025-02-05 02:18:27 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23397)
+[2025-02-05 02:18:27 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23514)
+[2025-02-05 02:18:27 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23517)
+[2025-02-05 02:18:27 +0000] [23397] [INFO] Worker exiting (pid: 23397)
+[2025-02-05 02:18:27 +0000] [23514] [INFO] Worker exiting (pid: 23514)
+[2025-02-05 02:18:27 +0000] [23517] [INFO] Worker exiting (pid: 23517)
+[2025-02-05 02:18:27 +0000] [24696] [INFO] Booting worker with pid: 24696
+[2025-02-05 02:18:27 +0000] [24697] [INFO] Booting worker with pid: 24697
+[2025-02-05 02:18:27 +0000] [24698] [INFO] Booting worker with pid: 24698
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23390)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23510)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23511)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23512)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23513)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23515)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:23516)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24696)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24697)
+[2025-02-05 02:34:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24698)
+[2025-02-05 02:34:23 +0000] [23390] [INFO] Worker exiting (pid: 23390)
+[2025-02-05 02:34:23 +0000] [23512] [INFO] Worker exiting (pid: 23512)
+[2025-02-05 02:34:23 +0000] [23511] [INFO] Worker exiting (pid: 23511)
+[2025-02-05 02:34:23 +0000] [23510] [INFO] Worker exiting (pid: 23510)
+[2025-02-05 02:34:23 +0000] [23515] [INFO] Worker exiting (pid: 23515)
+[2025-02-05 02:34:23 +0000] [23513] [INFO] Worker exiting (pid: 23513)
+[2025-02-05 02:34:23 +0000] [24698] [INFO] Worker exiting (pid: 24698)
+[2025-02-05 02:34:23 +0000] [24696] [INFO] Worker exiting (pid: 24696)
+[2025-02-05 02:34:23 +0000] [24697] [INFO] Worker exiting (pid: 24697)
+[2025-02-05 02:34:23 +0000] [23516] [INFO] Worker exiting (pid: 23516)
+[2025-02-05 02:34:23 +0000] [24733] [INFO] Booting worker with pid: 24733
+[2025-02-05 02:34:23 +0000] [24734] [INFO] Booting worker with pid: 24734
+[2025-02-05 02:34:23 +0000] [24735] [INFO] Booting worker with pid: 24735
+[2025-02-05 02:34:23 +0000] [24736] [INFO] Booting worker with pid: 24736
+[2025-02-05 02:34:23 +0000] [24737] [INFO] Booting worker with pid: 24737
+[2025-02-05 02:34:23 +0000] [24738] [INFO] Booting worker with pid: 24738
+[2025-02-05 02:34:24 +0000] [24739] [INFO] Booting worker with pid: 24739
+[2025-02-05 02:34:24 +0000] [24740] [INFO] Booting worker with pid: 24740
+[2025-02-05 02:34:24 +0000] [24741] [INFO] Booting worker with pid: 24741
+[2025-02-05 02:34:24 +0000] [24742] [INFO] Booting worker with pid: 24742
+[2025-02-05 02:51:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24738)
+[2025-02-05 02:51:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24739)
+[2025-02-05 02:51:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24740)
+[2025-02-05 02:51:23 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24741)
+[2025-02-05 02:51:23 +0000] [24738] [INFO] Worker exiting (pid: 24738)
+[2025-02-05 02:51:23 +0000] [24740] [INFO] Worker exiting (pid: 24740)
+[2025-02-05 02:51:23 +0000] [24739] [INFO] Worker exiting (pid: 24739)
+[2025-02-05 02:51:23 +0000] [24741] [INFO] Worker exiting (pid: 24741)
+[2025-02-05 02:51:23 +0000] [24819] [INFO] Booting worker with pid: 24819
+[2025-02-05 02:51:23 +0000] [24820] [INFO] Booting worker with pid: 24820
+[2025-02-05 02:51:23 +0000] [24821] [INFO] Booting worker with pid: 24821
+[2025-02-05 02:51:23 +0000] [24822] [INFO] Booting worker with pid: 24822
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24733)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24734)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24735)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24736)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24737)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24819)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24820)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24821)
+[2025-02-05 03:23:57 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24822)
+[2025-02-05 03:23:57 +0000] [24733] [INFO] Worker exiting (pid: 24733)
+[2025-02-05 03:23:57 +0000] [24734] [INFO] Worker exiting (pid: 24734)
+[2025-02-05 03:23:57 +0000] [24735] [INFO] Worker exiting (pid: 24735)
+[2025-02-05 03:23:57 +0000] [24736] [INFO] Worker exiting (pid: 24736)
+[2025-02-05 03:23:57 +0000] [24819] [INFO] Worker exiting (pid: 24819)
+[2025-02-05 03:23:57 +0000] [24820] [INFO] Worker exiting (pid: 24820)
+[2025-02-05 03:23:57 +0000] [24737] [INFO] Worker exiting (pid: 24737)
+[2025-02-05 03:23:57 +0000] [24822] [INFO] Worker exiting (pid: 24822)
+[2025-02-05 03:23:57 +0000] [24821] [INFO] Worker exiting (pid: 24821)
+[2025-02-05 03:23:57 +0000] [24968] [INFO] Booting worker with pid: 24968
+[2025-02-05 03:23:57 +0000] [24969] [INFO] Booting worker with pid: 24969
+[2025-02-05 03:23:58 +0000] [24970] [INFO] Booting worker with pid: 24970
+[2025-02-05 03:23:58 +0000] [24971] [INFO] Booting worker with pid: 24971
+[2025-02-05 03:23:58 +0000] [24972] [INFO] Booting worker with pid: 24972
+[2025-02-05 03:23:58 +0000] [24973] [INFO] Booting worker with pid: 24973
+[2025-02-05 03:23:58 +0000] [24974] [INFO] Booting worker with pid: 24974
+[2025-02-05 03:23:58 +0000] [24975] [INFO] Booting worker with pid: 24975
+[2025-02-05 03:23:58 +0000] [24976] [INFO] Booting worker with pid: 24976
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24742)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24968)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24969)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24970)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24971)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24972)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24973)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24974)
+[2025-02-05 03:40:55 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24975)
+[2025-02-05 03:40:55 +0000] [24742] [INFO] Worker exiting (pid: 24742)
+[2025-02-05 03:40:55 +0000] [24968] [INFO] Worker exiting (pid: 24968)
+[2025-02-05 03:40:55 +0000] [24973] [INFO] Worker exiting (pid: 24973)
+[2025-02-05 03:40:55 +0000] [24970] [INFO] Worker exiting (pid: 24970)
+[2025-02-05 03:40:55 +0000] [24969] [INFO] Worker exiting (pid: 24969)
+[2025-02-05 03:40:55 +0000] [24975] [INFO] Worker exiting (pid: 24975)
+[2025-02-05 03:40:55 +0000] [24971] [INFO] Worker exiting (pid: 24971)
+[2025-02-05 03:40:55 +0000] [24974] [INFO] Worker exiting (pid: 24974)
+[2025-02-05 03:40:55 +0000] [24972] [INFO] Worker exiting (pid: 24972)
+[2025-02-05 03:40:55 +0000] [25053] [INFO] Booting worker with pid: 25053
+[2025-02-05 03:40:55 +0000] [25054] [INFO] Booting worker with pid: 25054
+[2025-02-05 03:40:55 +0000] [25055] [INFO] Booting worker with pid: 25055
+[2025-02-05 03:40:56 +0000] [25056] [INFO] Booting worker with pid: 25056
+[2025-02-05 03:40:56 +0000] [25057] [INFO] Booting worker with pid: 25057
+[2025-02-05 03:40:56 +0000] [25058] [INFO] Booting worker with pid: 25058
+[2025-02-05 03:40:56 +0000] [25059] [INFO] Booting worker with pid: 25059
+[2025-02-05 03:40:56 +0000] [25060] [INFO] Booting worker with pid: 25060
+[2025-02-05 03:40:56 +0000] [25061] [INFO] Booting worker with pid: 25061
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:24976)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25053)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25054)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25055)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25056)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25057)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25058)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25059)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25060)
+[2025-02-05 03:56:24 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25061)
+[2025-02-05 03:56:24 +0000] [24976] [INFO] Worker exiting (pid: 24976)
+[2025-02-05 03:56:24 +0000] [25054] [INFO] Worker exiting (pid: 25054)
+[2025-02-05 03:56:24 +0000] [25055] [INFO] Worker exiting (pid: 25055)
+[2025-02-05 03:56:24 +0000] [25056] [INFO] Worker exiting (pid: 25056)
+[2025-02-05 03:56:24 +0000] [25057] [INFO] Worker exiting (pid: 25057)
+[2025-02-05 03:56:24 +0000] [25053] [INFO] Worker exiting (pid: 25053)
+[2025-02-05 03:56:24 +0000] [25058] [INFO] Worker exiting (pid: 25058)
+[2025-02-05 03:56:24 +0000] [25060] [INFO] Worker exiting (pid: 25060)
+[2025-02-05 03:56:24 +0000] [25059] [INFO] Worker exiting (pid: 25059)
+[2025-02-05 03:56:24 +0000] [25061] [INFO] Worker exiting (pid: 25061)
+[2025-02-05 03:56:24 +0000] [25102] [INFO] Booting worker with pid: 25102
+[2025-02-05 03:56:24 +0000] [25103] [INFO] Booting worker with pid: 25103
+[2025-02-05 03:56:24 +0000] [25104] [INFO] Booting worker with pid: 25104
+[2025-02-05 03:56:24 +0000] [25105] [INFO] Booting worker with pid: 25105
+[2025-02-05 03:56:24 +0000] [25106] [INFO] Booting worker with pid: 25106
+[2025-02-05 03:56:24 +0000] [25107] [INFO] Booting worker with pid: 25107
+[2025-02-05 03:56:24 +0000] [25108] [INFO] Booting worker with pid: 25108
+[2025-02-05 03:56:24 +0000] [25109] [INFO] Booting worker with pid: 25109
+[2025-02-05 03:56:24 +0000] [25110] [INFO] Booting worker with pid: 25110
+[2025-02-05 03:56:25 +0000] [25111] [INFO] Booting worker with pid: 25111
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25102)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25103)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25104)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25105)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25106)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25107)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25108)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25109)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25110)
+[2025-02-05 04:16:52 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25111)
+[2025-02-05 04:16:52 +0000] [25106] [INFO] Worker exiting (pid: 25106)
+[2025-02-05 04:16:52 +0000] [25109] [INFO] Worker exiting (pid: 25109)
+[2025-02-05 04:16:52 +0000] [25111] [INFO] Worker exiting (pid: 25111)
+[2025-02-05 04:16:52 +0000] [25104] [INFO] Worker exiting (pid: 25104)
+[2025-02-05 04:16:52 +0000] [25102] [INFO] Worker exiting (pid: 25102)
+[2025-02-05 04:16:52 +0000] [25105] [INFO] Worker exiting (pid: 25105)
+[2025-02-05 04:16:52 +0000] [25103] [INFO] Worker exiting (pid: 25103)
+[2025-02-05 04:16:52 +0000] [25107] [INFO] Worker exiting (pid: 25107)
+[2025-02-05 04:16:52 +0000] [25108] [INFO] Worker exiting (pid: 25108)
+[2025-02-05 04:16:52 +0000] [25110] [INFO] Worker exiting (pid: 25110)
+[2025-02-05 04:16:53 +0000] [25257] [INFO] Booting worker with pid: 25257
+[2025-02-05 04:16:53 +0000] [25258] [INFO] Booting worker with pid: 25258
+[2025-02-05 04:16:53 +0000] [25259] [INFO] Booting worker with pid: 25259
+[2025-02-05 04:16:53 +0000] [25260] [INFO] Booting worker with pid: 25260
+[2025-02-05 04:16:53 +0000] [25261] [INFO] Booting worker with pid: 25261
+[2025-02-05 04:16:53 +0000] [25262] [INFO] Booting worker with pid: 25262
+[2025-02-05 04:16:53 +0000] [25263] [INFO] Booting worker with pid: 25263
+[2025-02-05 04:16:53 +0000] [25264] [INFO] Booting worker with pid: 25264
+[2025-02-05 04:16:53 +0000] [25265] [INFO] Booting worker with pid: 25265
+[2025-02-05 04:16:53 +0000] [25266] [INFO] Booting worker with pid: 25266
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25258)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25259)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25260)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25261)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25262)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25263)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25264)
+[2025-02-05 04:50:32 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25265)
+[2025-02-05 04:50:32 +0000] [25262] [INFO] Worker exiting (pid: 25262)
+[2025-02-05 04:50:32 +0000] [25258] [INFO] Worker exiting (pid: 25258)
+[2025-02-05 04:50:32 +0000] [25260] [INFO] Worker exiting (pid: 25260)
+[2025-02-05 04:50:32 +0000] [25259] [INFO] Worker exiting (pid: 25259)
+[2025-02-05 04:50:32 +0000] [25261] [INFO] Worker exiting (pid: 25261)
+[2025-02-05 04:50:32 +0000] [25264] [INFO] Worker exiting (pid: 25264)
+[2025-02-05 04:50:32 +0000] [25263] [INFO] Worker exiting (pid: 25263)
+[2025-02-05 04:50:32 +0000] [25265] [INFO] Worker exiting (pid: 25265)
+[2025-02-05 04:50:32 +0000] [25417] [INFO] Booting worker with pid: 25417
+[2025-02-05 04:50:32 +0000] [25418] [INFO] Booting worker with pid: 25418
+[2025-02-05 04:50:32 +0000] [25419] [INFO] Booting worker with pid: 25419
+[2025-02-05 04:50:32 +0000] [25420] [INFO] Booting worker with pid: 25420
+[2025-02-05 04:50:32 +0000] [25421] [INFO] Booting worker with pid: 25421
+[2025-02-05 04:50:32 +0000] [25422] [INFO] Booting worker with pid: 25422
+[2025-02-05 04:50:32 +0000] [25423] [INFO] Booting worker with pid: 25423
+[2025-02-05 04:50:32 +0000] [25424] [INFO] Booting worker with pid: 25424
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25257)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25266)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25417)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25418)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25419)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25420)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25421)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25422)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25423)
+[2025-02-05 05:07:33 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25424)
+[2025-02-05 05:07:33 +0000] [25266] [INFO] Worker exiting (pid: 25266)
+[2025-02-05 05:07:33 +0000] [25257] [INFO] Worker exiting (pid: 25257)
+[2025-02-05 05:07:33 +0000] [25417] [INFO] Worker exiting (pid: 25417)
+[2025-02-05 05:07:33 +0000] [25418] [INFO] Worker exiting (pid: 25418)
+[2025-02-05 05:07:33 +0000] [25419] [INFO] Worker exiting (pid: 25419)
+[2025-02-05 05:07:33 +0000] [25420] [INFO] Worker exiting (pid: 25420)
+[2025-02-05 05:07:33 +0000] [25422] [INFO] Worker exiting (pid: 25422)
+[2025-02-05 05:07:33 +0000] [25424] [INFO] Worker exiting (pid: 25424)
+[2025-02-05 05:07:33 +0000] [25421] [INFO] Worker exiting (pid: 25421)
+[2025-02-05 05:07:33 +0000] [25423] [INFO] Worker exiting (pid: 25423)
+[2025-02-05 05:07:33 +0000] [25455] [INFO] Booting worker with pid: 25455
+[2025-02-05 05:07:33 +0000] [25456] [INFO] Booting worker with pid: 25456
+[2025-02-05 05:07:34 +0000] [25463] [INFO] Booting worker with pid: 25463
+[2025-02-05 05:07:34 +0000] [25464] [INFO] Booting worker with pid: 25464
+[2025-02-05 05:07:34 +0000] [25465] [INFO] Booting worker with pid: 25465
+[2025-02-05 05:07:34 +0000] [25466] [INFO] Booting worker with pid: 25466
+[2025-02-05 05:07:34 +0000] [25467] [INFO] Booting worker with pid: 25467
+[2025-02-05 05:07:34 +0000] [25468] [INFO] Booting worker with pid: 25468
+[2025-02-05 05:07:34 +0000] [25469] [INFO] Booting worker with pid: 25469
+[2025-02-05 05:07:34 +0000] [25470] [INFO] Booting worker with pid: 25470
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25456)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25463)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25464)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25465)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25466)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25467)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25468)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25469)
+[2025-02-05 05:17:54 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25470)
+[2025-02-05 05:17:54 +0000] [25463] [INFO] Worker exiting (pid: 25463)
+[2025-02-05 05:17:54 +0000] [25456] [INFO] Worker exiting (pid: 25456)
+[2025-02-05 05:17:54 +0000] [25465] [INFO] Worker exiting (pid: 25465)
+[2025-02-05 05:17:54 +0000] [25464] [INFO] Worker exiting (pid: 25464)
+[2025-02-05 05:17:54 +0000] [25466] [INFO] Worker exiting (pid: 25466)
+[2025-02-05 05:17:54 +0000] [25467] [INFO] Worker exiting (pid: 25467)
+[2025-02-05 05:17:54 +0000] [25470] [INFO] Worker exiting (pid: 25470)
+[2025-02-05 05:17:54 +0000] [25468] [INFO] Worker exiting (pid: 25468)
+[2025-02-05 05:17:54 +0000] [25469] [INFO] Worker exiting (pid: 25469)
+[2025-02-05 05:17:54 +0000] [25541] [INFO] Booting worker with pid: 25541
+[2025-02-05 05:17:54 +0000] [25542] [INFO] Booting worker with pid: 25542
+[2025-02-05 05:17:54 +0000] [25543] [INFO] Booting worker with pid: 25543
+[2025-02-05 05:17:54 +0000] [25544] [INFO] Booting worker with pid: 25544
+[2025-02-05 05:17:54 +0000] [25545] [INFO] Booting worker with pid: 25545
+[2025-02-05 05:17:54 +0000] [25546] [INFO] Booting worker with pid: 25546
+[2025-02-05 05:17:54 +0000] [25547] [INFO] Booting worker with pid: 25547
+[2025-02-05 05:17:54 +0000] [25548] [INFO] Booting worker with pid: 25548
+[2025-02-05 05:17:55 +0000] [25549] [INFO] Booting worker with pid: 25549
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25455)
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25541)
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25543)
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25544)
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25545)
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25546)
+[2025-02-05 05:25:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25547)
+[2025-02-05 05:25:35 +0000] [25455] [INFO] Worker exiting (pid: 25455)
+[2025-02-05 05:25:35 +0000] [25541] [INFO] Worker exiting (pid: 25541)
+[2025-02-05 05:25:35 +0000] [25543] [INFO] Worker exiting (pid: 25543)
+[2025-02-05 05:25:35 +0000] [25544] [INFO] Worker exiting (pid: 25544)
+[2025-02-05 05:25:35 +0000] [25545] [INFO] Worker exiting (pid: 25545)
+[2025-02-05 05:25:35 +0000] [25546] [INFO] Worker exiting (pid: 25546)
+[2025-02-05 05:25:35 +0000] [25547] [INFO] Worker exiting (pid: 25547)
+[2025-02-05 05:25:35 +0000] [25625] [INFO] Booting worker with pid: 25625
+[2025-02-05 05:25:35 +0000] [25626] [INFO] Booting worker with pid: 25626
+[2025-02-05 05:25:35 +0000] [25627] [INFO] Booting worker with pid: 25627
+[2025-02-05 05:25:35 +0000] [25628] [INFO] Booting worker with pid: 25628
+[2025-02-05 05:25:35 +0000] [25629] [INFO] Booting worker with pid: 25629
+[2025-02-05 05:25:35 +0000] [25630] [INFO] Booting worker with pid: 25630
+[2025-02-05 05:25:36 +0000] [25631] [INFO] Booting worker with pid: 25631
+[2025-02-05 05:41:34 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25625)
+[2025-02-05 05:41:34 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25626)
+[2025-02-05 05:41:34 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25627)
+[2025-02-05 05:41:34 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25628)
+[2025-02-05 05:41:34 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25629)
+[2025-02-05 05:41:34 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25630)
+[2025-02-05 05:41:34 +0000] [25625] [INFO] Worker exiting (pid: 25625)
+[2025-02-05 05:41:34 +0000] [25626] [INFO] Worker exiting (pid: 25626)
+[2025-02-05 05:41:34 +0000] [25627] [INFO] Worker exiting (pid: 25627)
+[2025-02-05 05:41:34 +0000] [25628] [INFO] Worker exiting (pid: 25628)
+[2025-02-05 05:41:34 +0000] [25630] [INFO] Worker exiting (pid: 25630)
+[2025-02-05 05:41:34 +0000] [25629] [INFO] Worker exiting (pid: 25629)
+[2025-02-05 05:41:34 +0000] [25703] [INFO] Booting worker with pid: 25703
+[2025-02-05 05:41:34 +0000] [25704] [INFO] Booting worker with pid: 25704
+[2025-02-05 05:41:34 +0000] [25705] [INFO] Booting worker with pid: 25705
+[2025-02-05 05:41:34 +0000] [25706] [INFO] Booting worker with pid: 25706
+[2025-02-05 05:41:34 +0000] [25707] [INFO] Booting worker with pid: 25707
+[2025-02-05 05:41:34 +0000] [25708] [INFO] Booting worker with pid: 25708
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25548)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25549)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25631)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25703)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25704)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25705)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25706)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25707)
+[2025-02-05 05:59:15 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25708)
+[2025-02-05 05:59:15 +0000] [25548] [INFO] Worker exiting (pid: 25548)
+[2025-02-05 05:59:15 +0000] [25705] [INFO] Worker exiting (pid: 25705)
+[2025-02-05 05:59:15 +0000] [25707] [INFO] Worker exiting (pid: 25707)
+[2025-02-05 05:59:15 +0000] [25706] [INFO] Worker exiting (pid: 25706)
+[2025-02-05 05:59:15 +0000] [25631] [INFO] Worker exiting (pid: 25631)
+[2025-02-05 05:59:15 +0000] [25708] [INFO] Worker exiting (pid: 25708)
+[2025-02-05 05:59:15 +0000] [25704] [INFO] Worker exiting (pid: 25704)
+[2025-02-05 05:59:15 +0000] [25549] [INFO] Worker exiting (pid: 25549)
+[2025-02-05 05:59:15 +0000] [25703] [INFO] Worker exiting (pid: 25703)
+[2025-02-05 05:59:15 +0000] [25743] [INFO] Booting worker with pid: 25743
+[2025-02-05 05:59:15 +0000] [25744] [INFO] Booting worker with pid: 25744
+[2025-02-05 05:59:15 +0000] [25745] [INFO] Booting worker with pid: 25745
+[2025-02-05 05:59:15 +0000] [25746] [INFO] Booting worker with pid: 25746
+[2025-02-05 05:59:15 +0000] [25747] [INFO] Booting worker with pid: 25747
+[2025-02-05 05:59:15 +0000] [25748] [INFO] Booting worker with pid: 25748
+[2025-02-05 05:59:15 +0000] [25749] [INFO] Booting worker with pid: 25749
+[2025-02-05 05:59:15 +0000] [25750] [INFO] Booting worker with pid: 25750
+[2025-02-05 05:59:15 +0000] [25751] [INFO] Booting worker with pid: 25751
+[2025-02-05 06:16:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25542)
+[2025-02-05 06:16:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25743)
+[2025-02-05 06:16:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25748)
+[2025-02-05 06:16:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25750)
+[2025-02-05 06:16:13 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25751)
+[2025-02-05 06:16:13 +0000] [25542] [INFO] Worker exiting (pid: 25542)
+[2025-02-05 06:16:13 +0000] [25743] [INFO] Worker exiting (pid: 25743)
+[2025-02-05 06:16:13 +0000] [25748] [INFO] Worker exiting (pid: 25748)
+[2025-02-05 06:16:13 +0000] [25751] [INFO] Worker exiting (pid: 25751)
+[2025-02-05 06:16:13 +0000] [25750] [INFO] Worker exiting (pid: 25750)
+[2025-02-05 06:16:13 +0000] [25825] [INFO] Booting worker with pid: 25825
+[2025-02-05 06:16:13 +0000] [25826] [INFO] Booting worker with pid: 25826
+[2025-02-05 06:16:13 +0000] [25827] [INFO] Booting worker with pid: 25827
+[2025-02-05 06:16:13 +0000] [25828] [INFO] Booting worker with pid: 25828
+[2025-02-05 06:16:13 +0000] [25829] [INFO] Booting worker with pid: 25829
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25745)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25746)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25747)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25825)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25826)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25827)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25828)
+[2025-02-05 06:18:56 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25829)
+[2025-02-05 06:18:56 +0000] [25828] [INFO] Worker exiting (pid: 25828)
+[2025-02-05 06:18:56 +0000] [25825] [INFO] Worker exiting (pid: 25825)
+[2025-02-05 06:18:56 +0000] [25826] [INFO] Worker exiting (pid: 25826)
+[2025-02-05 06:18:56 +0000] [25746] [INFO] Worker exiting (pid: 25746)
+[2025-02-05 06:18:56 +0000] [25745] [INFO] Worker exiting (pid: 25745)
+[2025-02-05 06:18:56 +0000] [25827] [INFO] Worker exiting (pid: 25827)
+[2025-02-05 06:18:56 +0000] [25829] [INFO] Worker exiting (pid: 25829)
+[2025-02-05 06:18:56 +0000] [25747] [INFO] Worker exiting (pid: 25747)
+[2025-02-05 06:18:56 +0000] [25870] [INFO] Booting worker with pid: 25870
+[2025-02-05 06:18:56 +0000] [25871] [INFO] Booting worker with pid: 25871
+[2025-02-05 06:18:56 +0000] [25872] [INFO] Booting worker with pid: 25872
+[2025-02-05 06:18:56 +0000] [25873] [INFO] Booting worker with pid: 25873
+[2025-02-05 06:18:56 +0000] [25874] [INFO] Booting worker with pid: 25874
+[2025-02-05 06:18:56 +0000] [25875] [INFO] Booting worker with pid: 25875
+[2025-02-05 06:18:56 +0000] [25876] [INFO] Booting worker with pid: 25876
+[2025-02-05 06:18:56 +0000] [25877] [INFO] Booting worker with pid: 25877
+[2025-02-05 06:31:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25744)
+[2025-02-05 06:31:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25875)
+[2025-02-05 06:31:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25876)
+[2025-02-05 06:31:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25877)
+[2025-02-05 06:31:16 +0000] [25876] [INFO] Worker exiting (pid: 25876)
+[2025-02-05 06:31:16 +0000] [25875] [INFO] Worker exiting (pid: 25875)
+[2025-02-05 06:31:16 +0000] [25877] [INFO] Worker exiting (pid: 25877)
+[2025-02-05 06:31:16 +0000] [25744] [INFO] Worker exiting (pid: 25744)
+[2025-02-05 06:31:16 +0000] [25950] [INFO] Booting worker with pid: 25950
+[2025-02-05 06:31:16 +0000] [25951] [INFO] Booting worker with pid: 25951
+[2025-02-05 06:31:16 +0000] [25952] [INFO] Booting worker with pid: 25952
+[2025-02-05 06:31:16 +0000] [25953] [INFO] Booting worker with pid: 25953
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25749)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25870)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25871)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25872)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25873)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25874)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25950)
+[2025-02-05 06:51:16 +0000] [25873] [INFO] Worker exiting (pid: 25873)
+[2025-02-05 06:51:16 +0000] [25872] [INFO] Worker exiting (pid: 25872)
+[2025-02-05 06:51:16 +0000] [25749] [INFO] Worker exiting (pid: 25749)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25951)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25952)
+[2025-02-05 06:51:16 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:25953)
+[2025-02-05 06:51:16 +0000] [25871] [INFO] Worker exiting (pid: 25871)
+[2025-02-05 06:51:16 +0000] [25870] [INFO] Worker exiting (pid: 25870)
+[2025-02-05 06:51:16 +0000] [25950] [INFO] Worker exiting (pid: 25950)
+[2025-02-05 06:51:16 +0000] [25951] [INFO] Worker exiting (pid: 25951)
+[2025-02-05 06:51:16 +0000] [25952] [INFO] Worker exiting (pid: 25952)
+[2025-02-05 06:51:16 +0000] [25953] [INFO] Worker exiting (pid: 25953)
+[2025-02-05 06:51:16 +0000] [25874] [INFO] Worker exiting (pid: 25874)
+[2025-02-05 06:51:16 +0000] [26227] [INFO] Booting worker with pid: 26227
+[2025-02-05 06:51:16 +0000] [26228] [INFO] Booting worker with pid: 26228
+[2025-02-05 06:51:16 +0000] [26229] [INFO] Booting worker with pid: 26229
+[2025-02-05 06:51:16 +0000] [26230] [INFO] Booting worker with pid: 26230
+[2025-02-05 06:51:16 +0000] [26231] [INFO] Booting worker with pid: 26231
+[2025-02-05 06:51:16 +0000] [26232] [INFO] Booting worker with pid: 26232
+[2025-02-05 06:51:16 +0000] [26233] [INFO] Booting worker with pid: 26233
+[2025-02-05 06:51:16 +0000] [26234] [INFO] Booting worker with pid: 26234
+[2025-02-05 06:51:16 +0000] [26235] [INFO] Booting worker with pid: 26235
+[2025-02-05 06:51:16 +0000] [26236] [INFO] Booting worker with pid: 26236
+[2025-02-05 06:53:53 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26227)
+[2025-02-05 06:53:53 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26228)
+[2025-02-05 06:53:53 +0000] [26227] [INFO] Worker exiting (pid: 26227)
+[2025-02-05 06:53:53 +0000] [26228] [INFO] Worker exiting (pid: 26228)
+[2025-02-05 06:53:53 +0000] [26313] [INFO] Booting worker with pid: 26313
+[2025-02-05 06:53:53 +0000] [26314] [INFO] Booting worker with pid: 26314
+[2025-02-05 07:00:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26313)
+[2025-02-05 07:00:35 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26314)
+[2025-02-05 07:00:35 +0000] [26313] [INFO] Worker exiting (pid: 26313)
+[2025-02-05 07:00:35 +0000] [26314] [INFO] Worker exiting (pid: 26314)
+[2025-02-05 07:00:35 +0000] [26350] [INFO] Booting worker with pid: 26350
+[2025-02-05 07:00:35 +0000] [26351] [INFO] Booting worker with pid: 26351
+[2025-02-05 07:07:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26230)
+[2025-02-05 07:07:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26231)
+[2025-02-05 07:07:01 +0000] [26231] [INFO] Worker exiting (pid: 26231)
+[2025-02-05 07:07:01 +0000] [26230] [INFO] Worker exiting (pid: 26230)
+[2025-02-05 07:07:01 +0000] [26428] [INFO] Booting worker with pid: 26428
+[2025-02-05 07:07:01 +0000] [26429] [INFO] Booting worker with pid: 26429
+[2025-02-05 07:12:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26229)
+[2025-02-05 07:12:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26233)
+[2025-02-05 07:12:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26236)
+[2025-02-05 07:12:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26350)
+[2025-02-05 07:12:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26428)
+[2025-02-05 07:12:01 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26429)
+[2025-02-05 07:12:01 +0000] [26233] [INFO] Worker exiting (pid: 26233)
+[2025-02-05 07:12:01 +0000] [26236] [INFO] Worker exiting (pid: 26236)
+[2025-02-05 07:12:01 +0000] [26428] [INFO] Worker exiting (pid: 26428)
+[2025-02-05 07:12:01 +0000] [26229] [INFO] Worker exiting (pid: 26229)
+[2025-02-05 07:12:01 +0000] [26350] [INFO] Worker exiting (pid: 26350)
+[2025-02-05 07:12:01 +0000] [26429] [INFO] Worker exiting (pid: 26429)
+[2025-02-05 07:12:01 +0000] [26667] [INFO] Booting worker with pid: 26667
+[2025-02-05 07:12:01 +0000] [26668] [INFO] Booting worker with pid: 26668
+[2025-02-05 07:12:01 +0000] [26669] [INFO] Booting worker with pid: 26669
+[2025-02-05 07:12:01 +0000] [26670] [INFO] Booting worker with pid: 26670
+[2025-02-05 07:12:01 +0000] [26675] [INFO] Booting worker with pid: 26675
+[2025-02-05 07:12:01 +0000] [26678] [INFO] Booting worker with pid: 26678
+[2025-02-05 07:31:29 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26351)
+[2025-02-05 07:31:29 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26668)
+[2025-02-05 07:31:29 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26669)
+[2025-02-05 07:31:29 +0000] [26351] [INFO] Worker exiting (pid: 26351)
+[2025-02-05 07:31:29 +0000] [26669] [INFO] Worker exiting (pid: 26669)
+[2025-02-05 07:31:29 +0000] [26668] [INFO] Worker exiting (pid: 26668)
+[2025-02-05 07:31:30 +0000] [26926] [INFO] Booting worker with pid: 26926
+[2025-02-05 07:31:30 +0000] [26927] [INFO] Booting worker with pid: 26927
+[2025-02-05 07:31:30 +0000] [26928] [INFO] Booting worker with pid: 26928
+[2025-02-05 07:49:58 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26232)
+[2025-02-05 07:49:58 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26678)
+[2025-02-05 07:49:58 +0000] [26232] [INFO] Worker exiting (pid: 26232)
+[2025-02-05 07:49:58 +0000] [26678] [INFO] Worker exiting (pid: 26678)
+[2025-02-05 07:49:58 +0000] [27040] [INFO] Booting worker with pid: 27040
+[2025-02-05 07:49:58 +0000] [27041] [INFO] Booting worker with pid: 27041
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26234)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26235)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26667)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26670)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26675)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26926)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26927)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:26928)
+[2025-02-05 08:08:07 +0000] [26235] [INFO] Worker exiting (pid: 26235)
+[2025-02-05 08:08:07 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:27041)
+[2025-02-05 08:08:07 +0000] [26234] [INFO] Worker exiting (pid: 26234)
+[2025-02-05 08:08:07 +0000] [26667] [INFO] Worker exiting (pid: 26667)
+[2025-02-05 08:08:07 +0000] [26670] [INFO] Worker exiting (pid: 26670)
+[2025-02-05 08:08:07 +0000] [26675] [INFO] Worker exiting (pid: 26675)
+[2025-02-05 08:08:07 +0000] [26926] [INFO] Worker exiting (pid: 26926)
+[2025-02-05 08:08:07 +0000] [26928] [INFO] Worker exiting (pid: 26928)
+[2025-02-05 08:08:07 +0000] [27041] [INFO] Worker exiting (pid: 27041)
+[2025-02-05 08:08:07 +0000] [26927] [INFO] Worker exiting (pid: 26927)
+[2025-02-05 08:08:08 +0000] [27112] [INFO] Booting worker with pid: 27112
+[2025-02-05 08:08:08 +0000] [27113] [INFO] Booting worker with pid: 27113
+[2025-02-05 08:08:08 +0000] [27114] [INFO] Booting worker with pid: 27114
+[2025-02-05 08:08:08 +0000] [27115] [INFO] Booting worker with pid: 27115
+[2025-02-05 08:08:08 +0000] [27122] [INFO] Booting worker with pid: 27122
+[2025-02-05 08:08:08 +0000] [27123] [INFO] Booting worker with pid: 27123
+[2025-02-05 08:08:08 +0000] [27124] [INFO] Booting worker with pid: 27124
+[2025-02-05 08:08:08 +0000] [27125] [INFO] Booting worker with pid: 27125
+[2025-02-05 08:08:08 +0000] [27126] [INFO] Booting worker with pid: 27126
+[2025-02-05 08:14:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:27112)
+[2025-02-05 08:14:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:27114)
+[2025-02-05 08:14:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:27124)
+[2025-02-05 08:14:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:27125)
+[2025-02-05 08:14:31 +0000] [114] [CRITICAL] WORKER TIMEOUT (pid:27126)
+[2025-02-05 08:14:31 +0000] [27112] [INFO] Worker exiting (pid: 27112)
+[2025-02-05 08:14:31 +0000] [27114] [INFO] Worker exiting (pid: 27114)
+[2025-02-05 08:14:31 +0000] [27124] [INFO] Worker exiting (pid: 27124)
+[2025-02-05 08:14:31 +0000] [27126] [INFO] Worker exiting (pid: 27126)
+[2025-02-05 08:14:31 +0000] [27125] [INFO] Worker exiting (pid: 27125)
+[2025-02-05 08:14:31 +0000] [27235] [INFO] Booting worker with pid: 27235
+[2025-02-05 08:14:31 +0000] [27236] [INFO] Booting worker with pid: 27236
+[2025-02-05 08:14:31 +0000] [27237] [INFO] Booting worker with pid: 27237
+[2025-02-05 08:14:31 +0000] [27238] [INFO] Booting worker with pid: 27238
+[2025-02-05 08:14:31 +0000] [27239] [INFO] Booting worker with pid: 27239
+[2025-02-05 08:37:09 +0000] [114] [INFO] Handling signal: term
+[2025-02-05 08:37:09 +0000] [27237] [INFO] Worker exiting (pid: 27237)
+[2025-02-05 08:37:10 +0000] [27122] [INFO] Worker exiting (pid: 27122)
+[2025-02-05 08:37:10 +0000] [27239] [INFO] Worker exiting (pid: 27239)
+[2025-02-05 08:37:10 +0000] [27113] [INFO] Worker exiting (pid: 27113)
+[2025-02-05 08:37:10 +0000] [27236] [INFO] Worker exiting (pid: 27236)
+[2025-02-05 08:37:10 +0000] [27235] [INFO] Worker exiting (pid: 27235)
+[2025-02-05 08:37:10 +0000] [27123] [INFO] Worker exiting (pid: 27123)
+[2025-02-05 08:37:10 +0000] [27238] [INFO] Worker exiting (pid: 27238)
+[2025-02-05 08:37:10 +0000] [27115] [INFO] Worker exiting (pid: 27115)
+[2025-02-05 08:37:10 +0000] [27040] [INFO] Worker exiting (pid: 27040)
+[2025-02-05 08:37:10 +0000] [114] [INFO] Shutting down: Master
+[2025-02-05 08:38:29 +0000] [114] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 08:38:29 +0000] [114] [INFO] Listening at: http://127.0.0.1:8080 (114)
+[2025-02-05 08:38:29 +0000] [114] [INFO] Using worker: threads
+[2025-02-05 08:38:29 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-05 08:38:29 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-05 08:38:29 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-05 08:38:29 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-05 08:38:29 +0000] [142] [INFO] Booting worker with pid: 142
+[2025-02-05 08:38:29 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-05 08:38:29 +0000] [144] [INFO] Booting worker with pid: 144
+[2025-02-05 08:38:29 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-05 08:38:29 +0000] [163] [INFO] Booting worker with pid: 163
+[2025-02-05 08:38:30 +0000] [190] [INFO] Booting worker with pid: 190
+[2025-02-05 08:47:40 +0000] [114] [INFO] Handling signal: term
+[2025-02-05 08:47:41 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-05 08:47:41 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2025-02-05 08:47:41 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-05 08:47:41 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-05 08:47:41 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-05 08:47:41 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-05 08:47:41 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-05 08:47:41 +0000] [163] [INFO] Worker exiting (pid: 163)
+[2025-02-05 08:47:41 +0000] [142] [INFO] Worker exiting (pid: 142)
+[2025-02-05 08:47:41 +0000] [190] [INFO] Worker exiting (pid: 190)
+[2025-02-05 08:47:42 +0000] [114] [INFO] Shutting down: Master
+[2025-02-05 08:48:03 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 08:48:03 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 08:48:03 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 08:48:03 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-05 08:48:03 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-05 08:48:03 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-05 08:48:03 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-05 08:48:03 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-05 08:48:03 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-05 08:48:03 +0000] [134] [INFO] Booting worker with pid: 134
+[2025-02-05 08:48:03 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-05 08:48:03 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-05 08:48:03 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-05 08:57:03 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 08:57:03 +0000] [134] [INFO] Worker exiting (pid: 134)
+[2025-02-05 08:57:03 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-05 08:57:03 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-05 08:57:03 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-05 08:57:03 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-05 08:57:03 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-05 08:57:03 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-05 08:57:03 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-05 08:57:04 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-05 08:57:04 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-05 08:57:04 +0000] [108] [INFO] Shutting down: Master
+[2025-02-05 08:57:26 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 08:57:26 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 08:57:26 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 08:57:26 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-05 08:57:26 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-05 08:57:26 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-05 08:57:26 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-05 08:57:26 +0000] [125] [INFO] Booting worker with pid: 125
+[2025-02-05 08:57:26 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-05 08:57:26 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-05 08:57:27 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-02-05 08:57:27 +0000] [136] [INFO] Booting worker with pid: 136
+[2025-02-05 08:57:27 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-05 09:05:55 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 09:05:55 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-05 09:05:55 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-05 09:05:55 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-05 09:05:55 +0000] [125] [INFO] Worker exiting (pid: 125)
+[2025-02-05 09:05:55 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-05 09:05:55 +0000] [136] [INFO] Worker exiting (pid: 136)
+[2025-02-05 09:05:55 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-05 09:05:55 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-05 09:05:56 +0000] [133] [INFO] Worker exiting (pid: 133)
+[2025-02-05 09:05:56 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-05 09:05:56 +0000] [108] [INFO] Shutting down: Master
+[2025-02-05 09:06:17 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 09:06:17 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 09:06:17 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 09:06:17 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-05 09:06:17 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-05 09:06:17 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-05 09:06:17 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-05 09:06:17 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-05 09:06:17 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-05 09:06:17 +0000] [144] [INFO] Booting worker with pid: 144
+[2025-02-05 09:06:17 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-05 09:06:18 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-05 09:06:18 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-05 10:35:51 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 10:35:51 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-05 10:35:52 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-05 10:35:52 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-05 10:35:52 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-05 10:35:52 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-05 10:35:52 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-05 10:35:52 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-05 10:35:52 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2025-02-05 10:35:52 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-05 10:35:52 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-05 10:35:52 +0000] [108] [INFO] Shutting down: Master
+[2025-02-05 10:36:14 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 10:36:14 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 10:36:14 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 10:36:14 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-05 10:36:14 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-05 10:36:14 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-05 10:36:14 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-05 10:36:14 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-05 10:36:14 +0000] [136] [INFO] Booting worker with pid: 136
+[2025-02-05 10:36:14 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-05 10:36:14 +0000] [149] [INFO] Booting worker with pid: 149
+[2025-02-05 10:36:14 +0000] [150] [INFO] Booting worker with pid: 150
+[2025-02-05 10:36:14 +0000] [151] [INFO] Booting worker with pid: 151
+[2025-02-05 11:07:01 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 11:07:01 +0000] [136] [INFO] Worker exiting (pid: 136)
+[2025-02-05 11:07:01 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-05 11:07:01 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-05 11:07:01 +0000] [149] [INFO] Worker exiting (pid: 149)
+[2025-02-05 11:07:01 +0000] [151] [INFO] Worker exiting (pid: 151)
+[2025-02-05 11:07:01 +0000] [150] [INFO] Worker exiting (pid: 150)
+[2025-02-05 11:07:02 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-05 11:07:02 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-05 11:07:02 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-05 11:07:02 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-05 11:07:02 +0000] [108] [INFO] Shutting down: Master
+[2025-02-05 11:07:23 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 11:07:23 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 11:07:23 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 11:07:23 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-05 11:07:23 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-05 11:07:23 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-05 11:07:23 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-05 11:07:23 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-05 11:07:23 +0000] [133] [INFO] Booting worker with pid: 133
+[2025-02-05 11:07:23 +0000] [145] [INFO] Booting worker with pid: 145
+[2025-02-05 11:07:23 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-05 11:07:23 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-05 11:07:23 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-05 11:22:57 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 11:22:57 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-05 11:22:57 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-05 11:22:57 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-05 11:22:57 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-05 11:22:57 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-05 11:22:57 +0000] [133] [INFO] Worker exiting (pid: 133)
+[2025-02-05 11:22:57 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-05 11:22:57 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2025-02-05 11:22:57 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-05 11:22:58 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-05 11:22:58 +0000] [108] [INFO] Shutting down: Master
+[2025-02-05 11:24:16 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 11:24:16 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 11:24:16 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 11:24:16 +0000] [127] [INFO] Booting worker with pid: 127
+[2025-02-05 11:24:16 +0000] [128] [INFO] Booting worker with pid: 128
+[2025-02-05 11:24:16 +0000] [129] [INFO] Booting worker with pid: 129
+[2025-02-05 11:24:16 +0000] [130] [INFO] Booting worker with pid: 130
+[2025-02-05 11:24:16 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-05 11:24:16 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-05 11:24:16 +0000] [134] [INFO] Booting worker with pid: 134
+[2025-02-05 11:24:16 +0000] [135] [INFO] Booting worker with pid: 135
+[2025-02-05 11:24:16 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-05 11:24:16 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-05 12:09:51 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 12:09:51 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-05 12:09:51 +0000] [135] [INFO] Worker exiting (pid: 135)
+[2025-02-05 12:09:51 +0000] [134] [INFO] Worker exiting (pid: 134)
+[2025-02-05 12:09:51 +0000] [128] [INFO] Worker exiting (pid: 128)
+[2025-02-05 12:09:51 +0000] [129] [INFO] Worker exiting (pid: 129)
+[2025-02-05 12:09:51 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-05 12:09:51 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-05 12:09:52 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-05 12:09:52 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2025-02-05 12:09:52 +0000] [127] [INFO] Worker exiting (pid: 127)
+[2025-02-05 12:09:52 +0000] [108] [INFO] Shutting down: Master
+[2025-02-05 14:45:10 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-05 14:45:10 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-05 14:45:10 +0000] [108] [INFO] Using worker: threads
+[2025-02-05 14:45:10 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-05 14:45:10 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-05 14:45:10 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-05 14:45:10 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-05 14:45:10 +0000] [125] [INFO] Booting worker with pid: 125
+[2025-02-05 14:45:10 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-05 14:45:10 +0000] [137] [INFO] Booting worker with pid: 137
+[2025-02-05 14:45:10 +0000] [139] [INFO] Booting worker with pid: 139
+[2025-02-05 14:45:10 +0000] [138] [INFO] Booting worker with pid: 138
+[2025-02-05 14:45:10 +0000] [151] [INFO] Booting worker with pid: 151
+[2025-02-05 14:45:31 +0000] [108] [INFO] Handling signal: term
+[2025-02-05 14:45:31 +0000] [137] [INFO] Worker exiting (pid: 137)
+[2025-02-05 14:45:31 +0000] [139] [INFO] Worker exiting (pid: 139)
+[2025-02-05 14:45:31 +0000] [151] [INFO] Worker exiting (pid: 151)
+[2025-02-05 14:45:31 +0000] [138] [INFO] Worker exiting (pid: 138)
+[2025-02-05 14:45:31 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-05 14:45:31 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-05 14:45:31 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-05 14:45:31 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-05 14:45:31 +0000] [125] [INFO] Worker exiting (pid: 125)
+[2025-02-05 14:45:31 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-05 14:45:32 +0000] [108] [INFO] Shutting down: Master
+[2025-02-06 10:17:43 +0000] [108] [INFO] Starting gunicorn 19.9.0
+[2025-02-06 10:17:43 +0000] [108] [INFO] Listening at: http://127.0.0.1:8080 (108)
+[2025-02-06 10:17:43 +0000] [108] [INFO] Using worker: threads
+[2025-02-06 10:17:43 +0000] [121] [INFO] Booting worker with pid: 121
+[2025-02-06 10:17:43 +0000] [122] [INFO] Booting worker with pid: 122
+[2025-02-06 10:17:43 +0000] [123] [INFO] Booting worker with pid: 123
+[2025-02-06 10:17:43 +0000] [124] [INFO] Booting worker with pid: 124
+[2025-02-06 10:17:43 +0000] [131] [INFO] Booting worker with pid: 131
+[2025-02-06 10:17:43 +0000] [132] [INFO] Booting worker with pid: 132
+[2025-02-06 10:17:43 +0000] [143] [INFO] Booting worker with pid: 143
+[2025-02-06 10:17:43 +0000] [146] [INFO] Booting worker with pid: 146
+[2025-02-06 10:17:43 +0000] [147] [INFO] Booting worker with pid: 147
+[2025-02-06 10:17:43 +0000] [148] [INFO] Booting worker with pid: 148
+[2025-02-06 10:25:20 +0000] [108] [INFO] Handling signal: term
+[2025-02-06 10:25:20 +0000] [124] [INFO] Worker exiting (pid: 124)
+[2025-02-06 10:25:20 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2025-02-06 10:25:20 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2025-02-06 10:25:20 +0000] [143] [INFO] Worker exiting (pid: 143)
+[2025-02-06 10:25:20 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2025-02-06 10:25:20 +0000] [131] [INFO] Worker exiting (pid: 131)
+[2025-02-06 10:25:21 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2025-02-06 10:25:21 +0000] [148] [INFO] Worker exiting (pid: 148)
+[2025-02-06 10:25:21 +0000] [132] [INFO] Worker exiting (pid: 132)
+[2025-02-06 10:25:21 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2025-02-06 10:25:21 +0000] [108] [INFO] Shutting down: Master
+[2025-02-06 10:26:14 +0000] [31] [INFO] Starting gunicorn 19.9.0
+[2025-02-06 10:26:14 +0000] [31] [INFO] Listening at: http://127.0.0.1:8080 (31)
+[2025-02-06 10:26:14 +0000] [31] [INFO] Using worker: threads
+[2025-02-06 10:26:14 +0000] [44] [INFO] Booting worker with pid: 44
+[2025-02-06 10:26:14 +0000] [45] [INFO] Booting worker with pid: 45
+[2025-02-06 10:26:14 +0000] [46] [INFO] Booting worker with pid: 46
+[2025-02-06 10:26:14 +0000] [47] [INFO] Booting worker with pid: 47
+[2025-02-06 10:26:14 +0000] [48] [INFO] Booting worker with pid: 48
+[2025-02-06 10:26:14 +0000] [60] [INFO] Booting worker with pid: 60
+[2025-02-06 10:26:14 +0000] [61] [INFO] Booting worker with pid: 61
+[2025-02-06 10:26:14 +0000] [62] [INFO] Booting worker with pid: 62
+[2025-02-06 10:26:14 +0000] [63] [INFO] Booting worker with pid: 63
+[2025-02-06 10:26:14 +0000] [64] [INFO] Booting worker with pid: 64
+[2025-02-06 10:59:33 +0000] [31] [INFO] Handling signal: term
+[2025-02-06 10:59:33 +0000] [62] [INFO] Worker exiting (pid: 62)
+[2025-02-06 10:59:33 +0000] [64] [INFO] Worker exiting (pid: 64)
+[2025-02-06 10:59:33 +0000] [60] [INFO] Worker exiting (pid: 60)
+[2025-02-06 10:59:33 +0000] [45] [INFO] Worker exiting (pid: 45)
+[2025-02-06 10:59:33 +0000] [63] [INFO] Worker exiting (pid: 63)
+[2025-02-06 10:59:33 +0000] [47] [INFO] Worker exiting (pid: 47)
+[2025-02-06 10:59:33 +0000] [46] [INFO] Worker exiting (pid: 46)
+[2025-02-06 10:59:34 +0000] [44] [INFO] Worker exiting (pid: 44)
+[2025-02-06 10:59:34 +0000] [48] [INFO] Worker exiting (pid: 48)
+[2025-02-06 10:59:34 +0000] [61] [INFO] Worker exiting (pid: 61)
+[2025-02-06 10:59:34 +0000] [31] [INFO] Shutting down: Master
