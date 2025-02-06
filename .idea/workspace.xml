@@ -4,9 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404ffe40-1054-429d-bf64-0bde819fcafd" name="변경" comment="백업데이터">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="404ffe40-1054-429d-bf64-0bde819fcafd" name="변경" comment="Data 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/dist/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/dist/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/dist/static/css/oj.645334d2d0849ef91f89abf02083562b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/dist/static/css/vendor.9072c527b18628c0aff7e8fe1950e24c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/dist/static/js/oj.450b085e3b069360789d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/dist/static/js/vendor.98f3aa003fb2ffe4fe82.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/log/dramatiq.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/log/dramatiq.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/log/gunicorn.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/log/gunicorn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/log/nginx_access.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/log/nginx_access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/log/nginx_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/log/nginx_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backend/log/supervisord.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/backend/log/supervisord.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/judge_server/log/gunicorn.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/judge_server/log/gunicorn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/judge_server/log/judge_server.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/judge_server/log/judge_server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/13090/pg_internal.init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/1259" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/1259" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16511" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16511" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16547" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16547" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16633" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16633" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16669" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16669" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16669_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16669_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16669_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16669_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16672" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16672" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/16919" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/16919" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/2619" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16384/2619" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/pg_internal.init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/global/pg_internal.init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat/db_0.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat/db_13090.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat/db_16384.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat/global.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_xact/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/redis/dump.rdb" beforeDir="false" afterPath="$PROJECT_DIR$/data/redis/dump.rdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +61,10 @@
     &quot;accountId&quot;: &quot;efc3ea9f-deca-47d9-90d6-2b2b73ac6408&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -84,7 +121,7 @@
       <workItem from="1738766684065" duration="3000" />
       <workItem from="1738768064910" duration="1350000" />
       <workItem from="1738834804942" duration="3897000" />
-      <workItem from="1738840072383" duration="199000" />
+      <workItem from="1738840072383" duration="3192000" />
     </task>
     <task id="LOCAL-00001" summary="백업데이터">
       <option name="closed" value="true" />
@@ -94,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738769362650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Data 수정">
+      <option name="closed" value="true" />
+      <created>1738840346123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738840346123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,14 +182,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -158,6 +196,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="백업데이터" />
-    <option name="LAST_COMMIT_MESSAGE" value="백업데이터" />
+    <MESSAGE value="Data 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data 수정" />
   </component>
 </project>
